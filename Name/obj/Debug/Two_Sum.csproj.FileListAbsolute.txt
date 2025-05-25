@@ -1,0 +1,7 @@
+D:\LC_Solutions\LC_Solutions\Name\bin\Debug\Name.exe.config
+D:\LC_Solutions\LC_Solutions\Name\bin\Debug\Name.exe
+D:\LC_Solutions\LC_Solutions\Name\bin\Debug\Name.pdb
+D:\LC_Solutions\LC_Solutions\Name\obj\Debug\Two_Sum.csproj.AssemblyReference.cache
+D:\LC_Solutions\LC_Solutions\Name\obj\Debug\Two_Sum.csproj.CoreCompileInputs.cache
+D:\LC_Solutions\LC_Solutions\Name\obj\Debug\Name.exe
+D:\LC_Solutions\LC_Solutions\Name\obj\Debug\Name.pdb

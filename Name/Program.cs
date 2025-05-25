@@ -17,7 +17,7 @@ namespace Two_Sum
          *  -10^9 <= nums[i] <= 10^9
          *  -10^9 <= target <= 10^9
          */
-        public int[] Two_Sum(int[] nums, int target)
+        public int[] TwoSum(int[] nums, int target)
         {
             for (int i = 0; i < nums.Length; i++)
             {
@@ -26,6 +26,20 @@ namespace Two_Sum
                     if (i == j) continue;
                     if (nums[j] == target - nums[i]) return new int[] { i, j }; 
                 }
+            }
+            return null;
+        }
+
+        public int[] ImprovedTwoSum(int[] nums, int target)
+        {
+            Dictionary<int, int> hash_map = new Dictionary<int, int>();
+            for (int i = 0; i < nums.Length;i++)
+            {
+                int complement = target - nums[i];
+                if (hash_map.ContainsKey(complement))
+                    return new int[] { i, hash_map[complement] };
+                else
+                    hash_map[nums[i]] = i;
             }
             return null;
         }

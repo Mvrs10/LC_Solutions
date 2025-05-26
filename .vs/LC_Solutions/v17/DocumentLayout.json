@@ -3,18 +3,16 @@
   "WorkspaceRootPath": "D:\\LC_Solutions\\LC_Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Two_Sum||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A81640A1-6EC3-4AA2-B3B8-EE03EDCE105F}|Palindrome\\Palindrome.csproj|d:\\lc_solutions\\lc_solutions\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81640A1-6EC3-4AA2-B3B8-EE03EDCE105F}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Name\\Two_Sum.csproj|d:\\lc_solutions\\lc_solutions\\name\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Name\\Two_Sum.csproj|solutionrelative:name\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Two_Sum\\Two_Sum.csproj|d:\\lc_solutions\\lc_solutions\\two_sum\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Two_Sum\\Two_Sum.csproj|solutionrelative:two_sum\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Name\\Two_Sum.csproj|d:\\lc_solutions\\lc_solutions\\name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Name\\Two_Sum.csproj|solutionrelative:name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Name\\Two_Sum.csproj|d:\\lc_solutions\\lc_solutions\\name\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Two_Sum\\Two_Sum.csproj|D:\\LC_Solutions\\LC_Solutions\\two_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Two_Sum\\Two_Sum.csproj|solutionrelative:two_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,41 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Name\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Name\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Name\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Name\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Palindrome\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrome\\Program.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Palindrome\\Program.cs",
+              "RelativeToolTip": "Palindrome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:50:55.337Z",
+              "WhenOpened": "2025-05-26T21:23:08.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Two_Sum",
-              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Name\\Two_Sum.csproj",
-              "RelativeDocumentMoniker": "Name\\Two_Sum.csproj",
-              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Name\\Two_Sum.csproj*",
-              "RelativeToolTip": "Name\\Two_Sum.csproj*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-25T14:44:20.15Z",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Two_Sum\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Two_Sum\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:53:08.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Name\\Program.cs",
-              "RelativeDocumentMoniker": "Name\\Program.cs",
-              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Name\\Program.cs",
-              "RelativeToolTip": "Name\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Two_Sum\\Program.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\Program.cs",
+              "RelativeToolTip": "Two_Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:31:24.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T14:53:02.751Z"
             }
           ]
         }

@@ -25,8 +25,8 @@ namespace MergeTwoSortedLists
 
         public ListNode MergeTwoList(ListNode l1, ListNode l2)
         {
-            ListNode node = new ListNode();
-            ListNode head = node;
+            ListNode head = new ListNode();
+            ListNode node = head;
             while (l1 != null && l2 != null)
             {
                 if (l1.value <= l2.value)
@@ -43,7 +43,7 @@ namespace MergeTwoSortedLists
             }
             if (l1 == null) node.next = l2;
             else node.next = l1;
-            return head;
+            return head.next;
         }
     }
 }

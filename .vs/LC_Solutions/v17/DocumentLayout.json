@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\LC_Solutions\\LC_Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{093B1465-0C9D-4F6C-833E-158AC76BCDEB}|RomanToInteger\\RomanToInteger.csproj|d:\\lc_solutions\\lc_solutions\\romantointeger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{717D1F51-B4F3-45FD-84CD-B768BABA7273}|DifferenceOfTwoSums\\DifferenceOfTwoSums.csproj|d:\\lc_solutions\\lc_solutions\\differenceoftwosums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D1F51-B4F3-45FD-84CD-B768BABA7273}|DifferenceOfTwoSums\\DifferenceOfTwoSums.csproj|solutionrelative:differenceoftwosums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EDF8D9-4912-48F1-AD6E-9CED1D99EB09}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|d:\\lc_solutions\\lc_solutions\\mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EDF8D9-4912-48F1-AD6E-9CED1D99EB09}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|solutionrelative:mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093B1465-0C9D-4F6C-833E-158AC76BCDEB}|RomanToInteger\\RomanToInteger.csproj|D:\\LC_Solutions\\LC_Solutions\\romantointeger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{093B1465-0C9D-4F6C-833E-158AC76BCDEB}|RomanToInteger\\RomanToInteger.csproj|solutionrelative:romantointeger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A81640A1-6EC3-4AA2-B3B8-EE03EDCE105F}|Palindrome\\Palindrome.csproj|d:\\lc_solutions\\lc_solutions\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A81640A1-6EC3-4AA2-B3B8-EE03EDCE105F}|Palindrome\\Palindrome.csproj|D:\\LC_Solutions\\LC_Solutions\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A81640A1-6EC3-4AA2-B3B8-EE03EDCE105F}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,18 +44,43 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\RomanToInteger\\Program.cs",
-              "RelativeDocumentMoniker": "RomanToInteger\\Program.cs",
-              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\RomanToInteger\\Program.cs",
-              "RelativeToolTip": "RomanToInteger\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\DifferenceOfTwoSums\\Program.cs",
+              "RelativeDocumentMoniker": "DifferenceOfTwoSums\\Program.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\DifferenceOfTwoSums\\Program.cs",
+              "RelativeToolTip": "DifferenceOfTwoSums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:22:12.314Z",
+              "WhenOpened": "2025-05-27T13:57:21.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\MergeTwoSortedLists\\Program.cs",
+              "RelativeDocumentMoniker": "MergeTwoSortedLists\\Program.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\MergeTwoSortedLists\\Program.cs",
+              "RelativeToolTip": "MergeTwoSortedLists\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:09:19.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\RomanToInteger\\Program.cs",
+              "RelativeDocumentMoniker": "RomanToInteger\\Program.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\RomanToInteger\\Program.cs",
+              "RelativeToolTip": "RomanToInteger\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:22:12.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Palindrome\\Program.cs",
               "RelativeDocumentMoniker": "Palindrome\\Program.cs",
@@ -55,12 +88,11 @@
               "RelativeToolTip": "Palindrome\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wCEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T21:23:08.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T21:23:08.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\Program.cs",
               "RelativeDocumentMoniker": "Two_Sum\\Program.cs",
@@ -68,8 +100,7 @@
               "RelativeToolTip": "Two_Sum\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:53:02.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T14:53:02.751Z"
             }
           ]
         }

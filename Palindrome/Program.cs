@@ -28,5 +28,18 @@ namespace Palindrome
             string reverseStringX = new string(array);
             return stringX == reverseStringX;
         }
+
+        public bool IsPalindrome_NoConversionToString(int x)
+        {
+            if (x < 0 || x % 10 == 0) return false;
+            int palindrome = 0;
+            while (palindrome < x)
+            {
+                palindrome = palindrome * 10 + x % 10;
+                x = x / 10;
+            }
+            if (palindrome == x || x == palindrome / 10) return true;
+            return false;
+        }
     }
 }

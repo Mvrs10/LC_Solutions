@@ -21,7 +21,6 @@ namespace DifferenceOfTwoSums
             {
                 if (i % m != 0) num1 += i;
                 else num2 += i;
-                i++;
             }
             return num1 - num2;
         }

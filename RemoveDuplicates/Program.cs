@@ -28,15 +28,29 @@ namespace RemoveDuplicates
                     
                     int unique = nums[i + 1];
                     count = duplicates;
-                    while (count > 0)
+                    for (int j = i; count > 0; count--)
                     {
-                        nums[i - count] = unique;
-                        count--;
+                        nums[j] = unique;
+                        j--;
                     }
                     k++;
                 }
             }
             return k;
+        }
+
+        public int BetterRemoveDuplicates(int[] nums)
+        {
+            int uniquePtr = 1;
+            for (int i = 1; i <  nums.Length; i++)
+            {
+                if (nums[i] != nums[uniquePtr - 1])
+                {
+                    nums[uniquePtr] = nums[i];
+                    uniquePtr++;
+                }
+            }
+            return uniquePtr;
         }
     }
 }

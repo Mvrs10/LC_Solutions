@@ -46,25 +46,20 @@ internal class LongestCommonPrefix
         string shortestStr = strs[0];
         int uniqueCount = 0;
         string result = "";
-        for (int i = 1; i < strs.Length; i++)
+        foreach (string str in strs)
         {
-            if (strs[i].Length < shortestStr.Length)
-            {
-                shortestStr = strs[i];
-                strs[i] = strs[0];
-                strs[0] = shortestStr;
-            }
+            if (str.Length < shortestStr.Length) shortestStr = str;
         }
-        for (int i = 1; i < shortestStr.Length; i++)
+        for (int i = 1; i <= shortestStr.Length; i++)
         {
-            char testChar = strs[0][i-1];
+            char testChar = shortestStr[i - 1];
             foreach (string str in strs)
             {
-                if (str[i] != testChar)
+                if (str[i - 1] != testChar)
                 {
                     for (int j = 0; j < uniqueCount; j++)
                     {
-                        string letter = strs[0][j].ToString();
+                        string letter = shortestStr[j].ToString();
                         result += letter;
                     }
                     return result;

@@ -41,6 +41,39 @@ internal class LongestCommonPrefix
         }
         return result;
     }
+    public static string LCPV2(string[] strs)
+    {
+        string shortestStr = strs[0];
+        int uniqueCount = 0;
+        string result = "";
+        for (int i = 1; i < strs.Length; i++)
+        {
+            if (strs[i].Length < shortestStr.Length)
+            {
+                shortestStr = strs[i];
+                strs[i] = strs[0];
+                strs[0] = shortestStr;
+            }
+        }
+        for (int i = 1; i < shortestStr.Length; i++)
+        {
+            char testChar = strs[0][i-1];
+            foreach (string str in strs)
+            {
+                if (str[i] != testChar)
+                {
+                    for (int j = 0; j < uniqueCount; j++)
+                    {
+                        string letter = strs[0][j].ToString();
+                        result += letter;
+                    }
+                    return result;
+                }
+            }
+            uniqueCount++;
+        }
+        return shortestStr;
+    }
 }
 
 

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\LC_Solutions\\LC_Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Two_Sum\\Two_Sum.csproj|d:\\lc_solutions\\lc_solutions\\two_sum\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Two_Sum\\Two_Sum.csproj|solutionrelative:two_sum\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA05970-0ABB-4CB3-9234-76132F540A11}|RemoveDuplicates\\RemoveDuplicates.csproj|D:\\LC_Solutions\\LC_Solutions\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AA05970-0ABB-4CB3-9234-76132F540A11}|RemoveDuplicates\\RemoveDuplicates.csproj|solutionrelative:removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D1F51-B4F3-45FD-84CD-B768BABA7273}|DifferenceOfTwoSums\\DifferenceOfTwoSums.csproj|D:\\LC_Solutions\\LC_Solutions\\differenceoftwosums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717D1F51-B4F3-45FD-84CD-B768BABA7273}|DifferenceOfTwoSums\\DifferenceOfTwoSums.csproj|solutionrelative:differenceoftwosums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65EDF8D9-4912-48F1-AD6E-9CED1D99EB09}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|D:\\LC_Solutions\\LC_Solutions\\mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65EDF8D9-4912-48F1-AD6E-9CED1D99EB09}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|solutionrelative:mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25D4ED66-496E-4C76-8849-07C53E85F120}|LongestCommonPrefix\\LongestCommonPrefix.csproj|d:\\lc_solutions\\lc_solutions\\longestcommonprefix\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D4ED66-496E-4C76-8849-07C53E85F120}|LongestCommonPrefix\\LongestCommonPrefix.csproj|solutionrelative:longestcommonprefix\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{093B1465-0C9D-4F6C-833E-158AC76BCDEB}|RomanToInteger\\RomanToInteger.csproj|D:\\LC_Solutions\\LC_Solutions\\romantointeger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A81640A1-6EC3-4AA2-B3B8-EE03EDCE105F}|Palindrome\\Palindrome.csproj|D:\\LC_Solutions\\LC_Solutions\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A81640A1-6EC3-4AA2-B3B8-EE03EDCE105F}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{717D1F51-B4F3-45FD-84CD-B768BABA7273}|DifferenceOfTwoSums\\DifferenceOfTwoSums.csproj|D:\\LC_Solutions\\LC_Solutions\\differenceoftwosums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{717D1F51-B4F3-45FD-84CD-B768BABA7273}|DifferenceOfTwoSums\\DifferenceOfTwoSums.csproj|solutionrelative:differenceoftwosums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA05970-0ABB-4CB3-9234-76132F540A11}|RemoveDuplicates\\RemoveDuplicates.csproj|d:\\lc_solutions\\lc_solutions\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA05970-0ABB-4CB3-9234-76132F540A11}|RemoveDuplicates\\RemoveDuplicates.csproj|solutionrelative:removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EDF8D9-4912-48F1-AD6E-9CED1D99EB09}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|D:\\LC_Solutions\\LC_Solutions\\mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EDF8D9-4912-48F1-AD6E-9CED1D99EB09}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|solutionrelative:mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D618F759-7770-4AA1-A2E9-39EA05B48073}|Two_Sum\\Two_Sum.csproj|D:\\LC_Solutions\\LC_Solutions\\two_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,31 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\App.config",
-              "RelativeDocumentMoniker": "Two_Sum\\App.config",
-              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\App.config",
-              "RelativeToolTip": "Two_Sum\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-29T04:21:46.989Z",
+              "Title": "LongestCommonPrefix.cs",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\LongestCommonPrefix\\LongestCommonPrefix.cs",
+              "RelativeDocumentMoniker": "LongestCommonPrefix\\LongestCommonPrefix.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\LongestCommonPrefix\\LongestCommonPrefix.cs",
+              "RelativeToolTip": "LongestCommonPrefix\\LongestCommonPrefix.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:59:21.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\RemoveDuplicates\\Program.cs",
               "RelativeDocumentMoniker": "RemoveDuplicates\\Program.cs",
               "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\RemoveDuplicates\\Program.cs",
               "RelativeToolTip": "RemoveDuplicates\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwDEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T02:45:13.149Z"
+              "WhenOpened": "2025-05-29T02:45:13.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\DifferenceOfTwoSums\\Program.cs",
               "RelativeDocumentMoniker": "DifferenceOfTwoSums\\Program.cs",
@@ -83,11 +84,12 @@
               "RelativeToolTip": "DifferenceOfTwoSums\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T13:57:21.735Z"
+              "WhenOpened": "2025-05-27T13:57:21.735Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\MergeTwoSortedLists\\Program.cs",
               "RelativeDocumentMoniker": "MergeTwoSortedLists\\Program.cs",
@@ -99,27 +101,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\RomanToInteger\\Program.cs",
               "RelativeDocumentMoniker": "RomanToInteger\\Program.cs",
               "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\RomanToInteger\\Program.cs",
               "RelativeToolTip": "RomanToInteger\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T00:22:12.314Z"
+              "WhenOpened": "2025-05-27T00:22:12.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Palindrome\\Program.cs",
               "RelativeDocumentMoniker": "Palindrome\\Program.cs",
               "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\Palindrome\\Program.cs",
               "RelativeToolTip": "Palindrome\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T21:23:08.258Z"
+              "WhenOpened": "2025-05-26T21:23:08.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

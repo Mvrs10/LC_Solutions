@@ -10,6 +10,8 @@ namespace ValidParentheses
     {
         static void Main(string[] args)
         {
+            bool result = isValid("{{{{");
+            Console.WriteLine(result);
         }
 
         static bool isValid(string s)
@@ -21,9 +23,10 @@ namespace ValidParentheses
                 {'(',')'},
                 {'{','}'},
                 {'[',']'}
-            };
+            };            
             foreach (char c in s)
-            {                
+            {
+                
                 if (map.ContainsKey(c))
                 {
                     stack.Push(map[c]);

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{25D4ED66-496E-4C76-8849-07C53E85F120}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{51E80C32-441D-4150-84ED-50622F9C4EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{59394162-3F3F-491D-89F9-062FDC205F11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{25D4ED66-496E-4C76-8849-07C53E85F120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25D4ED66-496E-4C76-8849-07C53E85F120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25D4ED66-496E-4C76-8849-07C53E85F120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E80C32-441D-4150-84ED-50622F9C4EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E80C32-441D-4150-84ED-50622F9C4EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E80C32-441D-4150-84ED-50622F9C4EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E80C32-441D-4150-84ED-50622F9C4EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59394162-3F3F-491D-89F9-062FDC205F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59394162-3F3F-491D-89F9-062FDC205F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59394162-3F3F-491D-89F9-062FDC205F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59394162-3F3F-491D-89F9-062FDC205F11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

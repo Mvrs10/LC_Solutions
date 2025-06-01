@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\LC_Solutions\\LC_Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA05970-0ABB-4CB3-9234-76132F540A11}|RemoveDuplicates\\RemoveDuplicates.csproj|d:\\lc_solutions\\lc_solutions\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59394162-3F3F-491D-89F9-062FDC205F11}|RemoveElement\\RemoveElement.csproj|d:\\lc_solutions\\lc_solutions\\removeelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59394162-3F3F-491D-89F9-062FDC205F11}|RemoveElement\\RemoveElement.csproj|solutionrelative:removeelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E80C32-441D-4150-84ED-50622F9C4EE3}|ValidParentheses\\ValidParentheses.csproj|d:\\lc_solutions\\lc_solutions\\validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E80C32-441D-4150-84ED-50622F9C4EE3}|ValidParentheses\\ValidParentheses.csproj|solutionrelative:validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA05970-0ABB-4CB3-9234-76132F540A11}|RemoveDuplicates\\RemoveDuplicates.csproj|D:\\LC_Solutions\\LC_Solutions\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA05970-0ABB-4CB3-9234-76132F540A11}|RemoveDuplicates\\RemoveDuplicates.csproj|solutionrelative:removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +58,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\RemoveElement\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveElement\\Program.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\RemoveElement\\Program.cs*",
+              "RelativeToolTip": "RemoveElement\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:04:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\ValidParentheses\\Program.cs",
+              "RelativeDocumentMoniker": "ValidParentheses\\Program.cs",
+              "ToolTip": "D:\\LC_Solutions\\LC_Solutions\\ValidParentheses\\Program.cs",
+              "RelativeToolTip": "ValidParentheses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:24:56.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LongestCommonPrefix.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\LongestCommonPrefix\\LongestCommonPrefix.cs",
               "RelativeDocumentMoniker": "LongestCommonPrefix\\LongestCommonPrefix.cs",
@@ -62,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\RemoveDuplicates\\Program.cs",
               "RelativeDocumentMoniker": "RemoveDuplicates\\Program.cs",
@@ -70,12 +104,11 @@
               "RelativeToolTip": "RemoveDuplicates\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T02:45:13.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T02:45:13.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\DifferenceOfTwoSums\\Program.cs",
               "RelativeDocumentMoniker": "DifferenceOfTwoSums\\Program.cs",
@@ -87,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\MergeTwoSortedLists\\Program.cs",
               "RelativeDocumentMoniker": "MergeTwoSortedLists\\Program.cs",
@@ -99,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\RomanToInteger\\Program.cs",
               "RelativeDocumentMoniker": "RomanToInteger\\Program.cs",
@@ -111,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Palindrome\\Program.cs",
               "RelativeDocumentMoniker": "Palindrome\\Program.cs",
@@ -123,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LC_Solutions\\LC_Solutions\\Two_Sum\\Program.cs",
               "RelativeDocumentMoniker": "Two_Sum\\Program.cs",

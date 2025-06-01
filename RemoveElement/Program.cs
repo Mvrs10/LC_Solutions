@@ -11,7 +11,7 @@ namespace RemoveElement
         static void Main(string[] args)
         {
             Console.WriteLine("Remove the guy");
-            int result = RemoveElement(new int[] { 2, 2, 2, 3 }, 2);
+            int result = RemoveElement2(new int[] { 2, 2, 2, 3 }, 2);
             Console.WriteLine(result);
         }
 
@@ -34,6 +34,21 @@ namespace RemoveElement
                 }
             }
             nums = nums.Take(nums.Length - repeat).ToArray();
+            return nums.Length;
+        }
+
+        static int RemoveElement2(int[] nums, int val)
+        {
+            int valid = 0;
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] != val)
+                {
+                    nums[valid] = nums[i];
+                    valid++;
+                }
+            }
+            nums = nums.Take(valid).ToArray();
             return nums.Length;
         }
     }

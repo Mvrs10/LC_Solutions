@@ -4,3 +4,6 @@ obj/
 *.user
 *.suo
 *.cache
+/.vs/LC_Solutions/v17/DocumentLayout.json
+/.vs/LC_Solutions/v17/.suo
+/.vs/LC_Solutions/v17/DocumentLayout.backup.json

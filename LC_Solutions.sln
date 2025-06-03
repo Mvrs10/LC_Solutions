@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStringOccurence", "Fir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchTarget", "SearchTarget\SearchTarget.csproj", "{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{2B58E5B9-CB89-4E93-BBCC-9689BAC42080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B58E5B9-CB89-4E93-BBCC-9689BAC42080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B58E5B9-CB89-4E93-BBCC-9689BAC42080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B58E5B9-CB89-4E93-BBCC-9689BAC42080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B58E5B9-CB89-4E93-BBCC-9689BAC42080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

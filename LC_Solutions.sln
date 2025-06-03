@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStringOccurence", "FirstStringOccurence\FirstStringOccurence.csproj", "{66B2FB2F-0C5F-4853-99B9-4DD1681985F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchTarget", "SearchTarget\SearchTarget.csproj", "{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{66B2FB2F-0C5F-4853-99B9-4DD1681985F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B2FB2F-0C5F-4853-99B9-4DD1681985F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B2FB2F-0C5F-4853-99B9-4DD1681985F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAE2D44-0FF4-45DF-AA81-B0C204E95F69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

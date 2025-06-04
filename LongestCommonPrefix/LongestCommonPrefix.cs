@@ -11,7 +11,7 @@ internal class LongestCommonPrefix
     public static string FindLongestCommonPrefix(string[] strs)
     {
         int shortest = strs[0].Length;
-        int uniqueCount = 0;
+        int mathcingCount = 0;
         string result = "";
         foreach (string str in strs)
         {
@@ -24,7 +24,7 @@ internal class LongestCommonPrefix
             {
                 if (str[i] != testChar)
                 {
-                    for (int j = 0; j < uniqueCount; j++)
+                    for (int j = 0; j < mathcingCount; j++)
                     {
                         string letter = strs[0][j].ToString();
                         result += letter;
@@ -32,9 +32,9 @@ internal class LongestCommonPrefix
                     return result;
                 }
             }
-            uniqueCount++;
+            mathcingCount++;
         }
-        for (int j = 0; j < uniqueCount; j++)
+        for (int j = 0; j < mathcingCount; j++)
         {
             string letter = strs[0][j].ToString();
             result += letter;
@@ -44,7 +44,7 @@ internal class LongestCommonPrefix
     public static string LCPV2(string[] strs)
     {
         string shortestStr = strs[0];
-        int uniqueCount = 0;
+        int matchingCount = 0;
         string result = "";
         foreach (string str in strs)
         {
@@ -57,7 +57,7 @@ internal class LongestCommonPrefix
             {
                 if (str[i - 1] != testChar)
                 {
-                    for (int j = 0; j < uniqueCount; j++)
+                    for (int j = 0; j < matchingCount; j++)
                     {
                         string letter = shortestStr[j].ToString();
                         result += letter;
@@ -65,7 +65,7 @@ internal class LongestCommonPrefix
                     return result;
                 }
             }
-            uniqueCount++;
+            matchingCount++;
         }
         return shortestStr;
     }

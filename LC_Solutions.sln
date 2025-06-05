@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{9F85117B-9499-419F-8E4A-24377EB8F39C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{9D40ECAC-FFBE-4B14-9578-E0369DF63160}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{9F85117B-9499-419F-8E4A-24377EB8F39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F85117B-9499-419F-8E4A-24377EB8F39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F85117B-9499-419F-8E4A-24377EB8F39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D40ECAC-FFBE-4B14-9578-E0369DF63160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D40ECAC-FFBE-4B14-9578-E0369DF63160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D40ECAC-FFBE-4B14-9578-E0369DF63160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D40ECAC-FFBE-4B14-9578-E0369DF63160}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

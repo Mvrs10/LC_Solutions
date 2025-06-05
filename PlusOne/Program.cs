@@ -27,16 +27,6 @@ namespace PlusOne
                 digits[digits.Length - 1] += 1;
                 return digits;
             }
-            //int num = 0;
-            //for (int i = digits.Length - 1; i >= 0; i--)
-            //{
-            //    num += digits[i] * (int)Math.Pow(10, digits.Length - 1 - i);
-            //}
-            //num += 1;
-            //if(num%10 == 0)
-            //{
-            //    int[] returnDigits = new int[digits.Length + 1];
-            //}
             bool isPowerOfTen = true;
             for (int i = 0; i < digits.Length - 1; i++)
             {

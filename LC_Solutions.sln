@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboClimbsStairs", "FiboClimbsStairs\FiboClimbsStairs.csproj", "{FEE1877F-1F19-4F4A-993B-B3D6E8EFF269}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicates", "DeleteDuplicates\DeleteDuplicates.csproj", "{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{FEE1877F-1F19-4F4A-993B-B3D6E8EFF269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE1877F-1F19-4F4A-993B-B3D6E8EFF269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE1877F-1F19-4F4A-993B-B3D6E8EFF269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

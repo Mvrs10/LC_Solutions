@@ -11,8 +11,8 @@ namespace SearchTarget
         static void Main(string[] args)
         {
             Console.WriteLine("Binary Search in disguise");
-            int result = SearchInsert(new int[] { 1, 3, 4, 9, 12, 25, 66, 198 }, 4);
-            Console.WriteLine();
+            int result = SearchInsert(new int[] { 1, 3, 4, 9 }, 11);
+            Console.WriteLine(result);
         }
 
         static int SearchInsert(int[] nums, int target)

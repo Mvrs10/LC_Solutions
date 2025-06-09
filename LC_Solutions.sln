@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboClimbsStairs", "FiboCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicates", "DeleteDuplicates\DeleteDuplicates.csproj", "{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{60847F2D-E8F5-4E14-92EA-78FB4D7F4520}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC75A828-9A1B-4BDA-9F58-54AA42C93BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60847F2D-E8F5-4E14-92EA-78FB4D7F4520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60847F2D-E8F5-4E14-92EA-78FB4D7F4520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60847F2D-E8F5-4E14-92EA-78FB4D7F4520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60847F2D-E8F5-4E14-92EA-78FB4D7F4520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

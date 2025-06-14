@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertSortedArrayIntoBST",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDepthOfBinaryTree", "MinimumDepthOfBinaryTree\MinimumDepthOfBinaryTree.csproj", "{1F55F12F-D577-4862-94BB-83A34D4F79B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum", "PathSum\PathSum.csproj", "{6800CB7F-1FEF-4BE5-9B8C-F87A0931CA6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{1F55F12F-D577-4862-94BB-83A34D4F79B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F55F12F-D577-4862-94BB-83A34D4F79B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F55F12F-D577-4862-94BB-83A34D4F79B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6800CB7F-1FEF-4BE5-9B8C-F87A0931CA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6800CB7F-1FEF-4BE5-9B8C-F87A0931CA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6800CB7F-1FEF-4BE5-9B8C-F87A0931CA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6800CB7F-1FEF-4BE5-9B8C-F87A0931CA6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

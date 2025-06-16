@@ -30,11 +30,27 @@ namespace PascalTriangle
             }
             return result;
         }
+
+        private static IList<int> GetRow(int rowIndex)
+        {
+            IList<int> result = new List<int>(new int[rowIndex + 1]);
+            result[0] = 1;
+            for (int i = 1; i <= rowIndex; i++)
+            {
+                for (int j = i; j > 0; j--)
+                {
+                    result[j] = result[j] + result[j - 1];
+                }
+            }
+            return result;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Pascal Triangle");
             IList<IList<int>> result = Generate(5);
+            IList<int> result2 = GetRow(1);
             Console.WriteLine(result);
+            Console.WriteLine(result2);
         }
     }
 }

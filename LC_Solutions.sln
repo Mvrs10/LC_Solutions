@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum", "PathSum\PathSum.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{BFC01B01-8F11-4A73-BD7A-D9A8E58500D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{C358BB31-3D42-48EC-B9E6-409F94E73342}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{BFC01B01-8F11-4A73-BD7A-D9A8E58500D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFC01B01-8F11-4A73-BD7A-D9A8E58500D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFC01B01-8F11-4A73-BD7A-D9A8E58500D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C358BB31-3D42-48EC-B9E6-409F94E73342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C358BB31-3D42-48EC-B9E6-409F94E73342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C358BB31-3D42-48EC-B9E6-409F94E73342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C358BB31-3D42-48EC-B9E6-409F94E73342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

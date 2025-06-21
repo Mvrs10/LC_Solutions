@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "SingleNumber\SingleNumber.csproj", "{862D458A-8E89-453A-9320-63B9FCE7D907}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{1144DD42-B5E5-4585-B48C-EF5A1D29CE42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{862D458A-8E89-453A-9320-63B9FCE7D907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{862D458A-8E89-453A-9320-63B9FCE7D907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{862D458A-8E89-453A-9320-63B9FCE7D907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1144DD42-B5E5-4585-B48C-EF5A1D29CE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1144DD42-B5E5-4585-B48C-EF5A1D29CE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1144DD42-B5E5-4585-B48C-EF5A1D29CE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1144DD42-B5E5-4585-B48C-EF5A1D29CE42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

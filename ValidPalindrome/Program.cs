@@ -52,6 +52,8 @@ namespace ValidPalindrome
             string s2 = " ";
             bool result = IsPalindromeWithRegularExpressions(s1);
             Console.WriteLine(result);
+            result = IsPalindromeWithoutRegex(s1);
+            Console.WriteLine(result);
             result = IsPalindromeWithRegularExpressions(s2);
             Console.WriteLine(result);
         }

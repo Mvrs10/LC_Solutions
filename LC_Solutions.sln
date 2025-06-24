@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreorderTraversal", "Preord
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostorderTraversal", "PostorderTraversal\PostorderTraversal.csproj", "{4DD3A508-ED85-4584-B590-ED8D6467F5D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoLinkedLists", "IntersectionOfTwoLinkedLists\IntersectionOfTwoLinkedLists.csproj", "{8E092207-22B9-4748-BECB-8EED1E137DCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{4DD3A508-ED85-4584-B590-ED8D6467F5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD3A508-ED85-4584-B590-ED8D6467F5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD3A508-ED85-4584-B590-ED8D6467F5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E092207-22B9-4748-BECB-8EED1E137DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E092207-22B9-4748-BECB-8EED1E137DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E092207-22B9-4748-BECB-8EED1E137DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E092207-22B9-4748-BECB-8EED1E137DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

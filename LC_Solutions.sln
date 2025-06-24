@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostorderTraversal", "Posto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoLinkedLists", "IntersectionOfTwoLinkedLists\IntersectionOfTwoLinkedLists.csproj", "{8E092207-22B9-4748-BECB-8EED1E137DCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{8E092207-22B9-4748-BECB-8EED1E137DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E092207-22B9-4748-BECB-8EED1E137DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E092207-22B9-4748-BECB-8EED1E137DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

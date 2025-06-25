@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoLinkedList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelSheetColumnTitle", "ExcelSheetColumnTitle\ExcelSheetColumnTitle.csproj", "{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{BB42BDEC-BD83-4736-B923-7E45C060F710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F222BB8-C7E9-4D9A-8A3E-B24FB2852580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB42BDEC-BD83-4736-B923-7E45C060F710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB42BDEC-BD83-4736-B923-7E45C060F710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB42BDEC-BD83-4736-B923-7E45C060F710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB42BDEC-BD83-4736-B923-7E45C060F710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

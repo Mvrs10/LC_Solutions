@@ -1,10 +1,28 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 
 namespace MajorityElement
 {
     internal class Program
     {
+        private static int MajorityElementHashMap(int[] nums)
+        {
+            Dictionary<int,int> map = new Dictionary<int,int>();
+            foreach (int num in nums)
+            {
+                if (!map.ContainsKey(num))
+                {
+                    map.Add(num, 1);
+                }
+                else
+                {
+                    map[num]++;
+                }
+            }
+            return map.Aggregate((x, y) => x.Value > y.Value ? x : y).Key;
+        }
         private static int MajorityElement(int[] nums)
         {
             Array.Sort(nums);
@@ -54,6 +72,8 @@ namespace MajorityElement
             result = MajorityElementByBoyer_Moore(nums1);
             Console.WriteLine(result);
             result = MajorityElementByBoyer_Moore(nums2);
+            Console.WriteLine(result);
+            result = MajorityElementHashMap(nums2);
             Console.WriteLine(result);
         }
     }

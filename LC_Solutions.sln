@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseBits", "ReverseBits\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOf1Bits", "NumberOf1Bits\NumberOf1Bits.csproj", "{316A1473-9BBE-4D9F-B534-1ADA976620EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{FD2FE069-CB15-4DF7-B5F7-330A527ADE61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{316A1473-9BBE-4D9F-B534-1ADA976620EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{316A1473-9BBE-4D9F-B534-1ADA976620EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{316A1473-9BBE-4D9F-B534-1ADA976620EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2FE069-CB15-4DF7-B5F7-330A527ADE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2FE069-CB15-4DF7-B5F7-330A527ADE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2FE069-CB15-4DF7-B5F7-330A527ADE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2FE069-CB15-4DF7-B5F7-330A527ADE61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

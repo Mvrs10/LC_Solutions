@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveLinkedListElements", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{7584D9F0-8677-4D13-9FF2-541F59DDE8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{50ABB66D-F150-4694-9FB0-05B681BDA234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{7584D9F0-8677-4D13-9FF2-541F59DDE8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7584D9F0-8677-4D13-9FF2-541F59DDE8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7584D9F0-8677-4D13-9FF2-541F59DDE8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ABB66D-F150-4694-9FB0-05B681BDA234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ABB66D-F150-4694-9FB0-05B681BDA234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ABB66D-F150-4694-9FB0-05B681BDA234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ABB66D-F150-4694-9FB0-05B681BDA234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

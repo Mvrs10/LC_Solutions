@@ -1,4 +1,5 @@
-﻿
+﻿using System.Text;
+
 namespace DataStructures;
 
 public class ListNode
@@ -9,5 +10,18 @@ public class ListNode
     {
         this.val = val;
         this.next = next;
+    }
+
+    public override string ToString()
+    {
+        StringBuilder sb = new StringBuilder("[");
+        ListNode walk = this;
+        while (walk != null)
+        {
+            sb.Append($" {walk.val} -> ");
+            walk = walk.next;
+        }
+        sb.Append(" null ]");
+        return sb.ToString();
     }
 }

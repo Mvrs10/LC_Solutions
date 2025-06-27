@@ -44,6 +44,6 @@ internal class Program
         head.next.next.next.next.next.next = new ListNode(6);
 
         ListNode result = RemoveElements(head1,2);
-        Console.WriteLine(result);
+        Console.WriteLine(result.ToString());
     }
 }

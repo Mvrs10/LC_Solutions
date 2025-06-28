@@ -14,14 +14,15 @@ public class ListNode
 
     public override string ToString()
     {
-        StringBuilder sb = new StringBuilder("[");
+        StringBuilder sb = new StringBuilder('[');
         ListNode walk = this;
         while (walk != null)
         {
-            sb.Append($" {walk.val} -> ");
+            sb.Append($" {walk.val} ");
+            if (walk.next != null) sb.Append("->");
             walk = walk.next;
         }
-        sb.Append(" null ]");
+        sb.Append(']');
         return sb.ToString();
     }
 }

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace ImplementAStackUsingQueue;
+﻿namespace ImplementAStackUsingQueue;
 
 internal class MyStack
 {

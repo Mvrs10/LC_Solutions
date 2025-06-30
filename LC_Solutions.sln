@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertABinaryTree", "Invert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryRange", "SummaryRange\SummaryRange.csproj", "{47052B51-7475-42CF-AF48-0AD5EB3B5D1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementQueueUsingStacks", "ImplementQueueUsingStacks\ImplementQueueUsingStacks.csproj", "{71ECE475-E7B3-424A-8F04-A4AAB040525B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{47052B51-7475-42CF-AF48-0AD5EB3B5D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47052B51-7475-42CF-AF48-0AD5EB3B5D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47052B51-7475-42CF-AF48-0AD5EB3B5D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71ECE475-E7B3-424A-8F04-A4AAB040525B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71ECE475-E7B3-424A-8F04-A4AAB040525B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71ECE475-E7B3-424A-8F04-A4AAB040525B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71ECE475-E7B3-424A-8F04-A4AAB040525B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

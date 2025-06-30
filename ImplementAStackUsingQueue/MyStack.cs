@@ -14,9 +14,8 @@ internal class MyStack
         {
             helper.Enqueue(data.Dequeue());
         }
-        Queue<int> temp = data;
-        data = helper;
-        helper = temp;
+        data = new Queue<int>(helper);
+        helper.Clear();
     }
 
     public void PushupWithOneArm(int x)

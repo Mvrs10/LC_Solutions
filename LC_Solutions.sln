@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "Pal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{46D39230-8043-4BDD-8B2E-6136269FC362}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOriginalTypedString1", "FindTheOriginalTypedString1\FindTheOriginalTypedString1.csproj", "{D47E4ACC-58BB-4245-BDBC-6ED0DBD45FCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{46D39230-8043-4BDD-8B2E-6136269FC362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46D39230-8043-4BDD-8B2E-6136269FC362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46D39230-8043-4BDD-8B2E-6136269FC362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47E4ACC-58BB-4245-BDBC-6ED0DBD45FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47E4ACC-58BB-4245-BDBC-6ED0DBD45FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47E4ACC-58BB-4245-BDBC-6ED0DBD45FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47E4ACC-58BB-4245-BDBC-6ED0DBD45FCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

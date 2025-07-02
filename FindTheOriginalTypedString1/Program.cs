@@ -41,7 +41,7 @@ internal class Program
     }
     static void Main(string[] args)
     {
-        string word1 = "ere", word2 = "abbcccc";        
+        string word1 = "ere", word2 = "aabbccdd";        
         int result = PossibleStringCount(word1);
         Console.WriteLine(result);
         result = PossibleStringCount(word2);

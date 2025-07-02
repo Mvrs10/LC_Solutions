@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOriginalTypedString1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOriginalTypedString2", "FindTheOriginalTypedString3\FindTheOriginalTypedString2.csproj", "{433D73D1-781C-4B12-8345-D46894EB1E20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePaths", "BinaryTreePaths\BinaryTreePaths.csproj", "{A3A8942C-5376-4A52-A658-5D6FAC414CC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{433D73D1-781C-4B12-8345-D46894EB1E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{433D73D1-781C-4B12-8345-D46894EB1E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{433D73D1-781C-4B12-8345-D46894EB1E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A8942C-5376-4A52-A658-5D6FAC414CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A8942C-5376-4A52-A658-5D6FAC414CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A8942C-5376-4A52-A658-5D6FAC414CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A8942C-5376-4A52-A658-5D6FAC414CC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

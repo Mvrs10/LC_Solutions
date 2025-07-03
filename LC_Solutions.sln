@@ -113,6 +113,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOriginalTypedString2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreePaths", "BinaryTreePaths\BinaryTreePaths.csproj", "{A3A8942C-5376-4A52-A658-5D6FAC414CC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddDigits", "AddDigits\AddDigits.csproj", "{2A0D551A-5690-49D0-AE2F-8E3819631D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheKthCharacterInStringGame1", "FindTheKthCharacterInStringGame1\FindTheKthCharacterInStringGame1.csproj", "{A96CD36D-4BAB-40D2-BA26-442030A7F606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +343,14 @@ Global
 		{A3A8942C-5376-4A52-A658-5D6FAC414CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3A8942C-5376-4A52-A658-5D6FAC414CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3A8942C-5376-4A52-A658-5D6FAC414CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0D551A-5690-49D0-AE2F-8E3819631D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0D551A-5690-49D0-AE2F-8E3819631D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0D551A-5690-49D0-AE2F-8E3819631D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0D551A-5690-49D0-AE2F-8E3819631D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96CD36D-4BAB-40D2-BA26-442030A7F606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96CD36D-4BAB-40D2-BA26-442030A7F606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96CD36D-4BAB-40D2-BA26-442030A7F606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96CD36D-4BAB-40D2-BA26-442030A7F606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

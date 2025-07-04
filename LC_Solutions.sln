@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UglyNumber", "UglyNumber\Ug
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{CA3ACC30-1543-4FA7-921D-9A7D9513154E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheKthCharacterInStringGame2", "FindTheKthCharacterInStringGame2\FindTheKthCharacterInStringGame2.csproj", "{A404A182-0929-4699-B8A1-CAC92AAE80ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{CA3ACC30-1543-4FA7-921D-9A7D9513154E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA3ACC30-1543-4FA7-921D-9A7D9513154E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA3ACC30-1543-4FA7-921D-9A7D9513154E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A404A182-0929-4699-B8A1-CAC92AAE80ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A404A182-0929-4699-B8A1-CAC92AAE80ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A404A182-0929-4699-B8A1-CAC92AAE80ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A404A182-0929-4699-B8A1-CAC92AAE80ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -40,5 +40,9 @@ internal class Program
         Console.WriteLine(result);
         result = FindLucky(nums2);
         Console.WriteLine(result);
+        result = FindLuckyHashMap(nums1);
+        Console.WriteLine(result);
+        result = FindLuckyHashMap(nums2);
+        Console.WriteLine(result);
     }
 }

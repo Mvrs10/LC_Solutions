@@ -131,6 +131,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "WordPattern\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLuckyIntegerInAnArray", "FindLuckyIntegerInAnArray\FindLuckyIntegerInAnArray.csproj", "{1747640D-22B2-48D5-B567-48F29A422E5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimGame", "NimGame\NimGame.csproj", "{484B78D9-54E7-4A9E-BC11-94F583186390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeSumQuery_Immutable", "RangeSumQuery_Immutable\RangeSumQuery_Immutable.csproj", "{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +397,14 @@ Global
 		{1747640D-22B2-48D5-B567-48F29A422E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1747640D-22B2-48D5-B567-48F29A422E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1747640D-22B2-48D5-B567-48F29A422E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484B78D9-54E7-4A9E-BC11-94F583186390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484B78D9-54E7-4A9E-BC11-94F583186390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484B78D9-54E7-4A9E-BC11-94F583186390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484B78D9-54E7-4A9E-BC11-94F583186390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

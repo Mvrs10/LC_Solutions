@@ -137,6 +137,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeSumQuery_Immutable", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingPairsWithACertainSum", "FindingPairsWithACertainSum\FindingPairsWithACertainSum.csproj", "{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThree\PowerOfThree.csproj", "{89D21768-4039-4117-92C7-AE38AD8325DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D21768-4039-4117-92C7-AE38AD8325DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D21768-4039-4117-92C7-AE38AD8325DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D21768-4039-4117-92C7-AE38AD8325DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D21768-4039-4117-92C7-AE38AD8325DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

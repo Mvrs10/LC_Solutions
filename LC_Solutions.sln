@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimGame", "NimGame\NimGame.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeSumQuery_Immutable", "RangeSumQuery_Immutable\RangeSumQuery_Immutable.csproj", "{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingPairsWithACertainSum", "FindingPairsWithACertainSum\FindingPairsWithACertainSum.csproj", "{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1711D050-27A4-4C7C-B8E3-8E53F9FD5963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7ED1CC0-2DCE-42F3-8BA6-B6706F27840A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

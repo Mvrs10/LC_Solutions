@@ -139,6 +139,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingPairsWithACertainSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThree\PowerOfThree.csproj", "{89D21768-4039-4117-92C7-AE38AD8325DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfEventsThatCanBeAttended", "MaximumNumberOfEventsThatCanBeAttended\MaximumNumberOfEventsThatCanBeAttended.csproj", "{17D9B22B-2557-4370-A951-CF7BC37C2AE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{89D21768-4039-4117-92C7-AE38AD8325DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D21768-4039-4117-92C7-AE38AD8325DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D21768-4039-4117-92C7-AE38AD8325DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D9B22B-2557-4370-A951-CF7BC37C2AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D9B22B-2557-4370-A951-CF7BC37C2AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D9B22B-2557-4370-A951-CF7BC37C2AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D9B22B-2557-4370-A951-CF7BC37C2AE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

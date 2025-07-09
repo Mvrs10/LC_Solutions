@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfFour", "PowerOfFour\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfEventsThatCanBeAttended2", "MaximumNumberOfEventsThatCanBeAttended2\MaximumNumberOfEventsThatCanBeAttended2.csproj", "{A6321733-4311-4649-A124-CB3B513A782D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RescheduleMeetingsForMaxFreeTime1", "RescheduleMeetingsForMaxFreeTime1\RescheduleMeetingsForMaxFreeTime1.csproj", "{0D7E5A88-B804-4F8D-9623-B6A6573D7FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{A6321733-4311-4649-A124-CB3B513A782D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6321733-4311-4649-A124-CB3B513A782D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6321733-4311-4649-A124-CB3B513A782D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7E5A88-B804-4F8D-9623-B6A6573D7FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7E5A88-B804-4F8D-9623-B6A6573D7FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7E5A88-B804-4F8D-9623-B6A6573D7FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7E5A88-B804-4F8D-9623-B6A6573D7FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

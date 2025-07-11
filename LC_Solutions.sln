@@ -151,6 +151,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RescheduleMeetingsForMaxFre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RescheduleMeetingsForMaximumFreeTime 2", "RescheduleMeetingsForMaximumFreeTime 2\RescheduleMeetingsForMaximumFreeTime 2.csproj", "{2C4CB9C0-9879-4CDA-89E3-2418025D57AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString_2Pointers", "ReverseString_2Pointers\ReverseString_2Pointers.csproj", "{F13B40A8-C29B-486A-A9CC-6257A490817E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseVowelsOfAString", "ReverseVowelsOfAString\ReverseVowelsOfAString.csproj", "{25DA9C05-3A8A-4477-B7DF-877C4C751751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -453,6 +457,14 @@ Global
 		{2C4CB9C0-9879-4CDA-89E3-2418025D57AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C4CB9C0-9879-4CDA-89E3-2418025D57AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C4CB9C0-9879-4CDA-89E3-2418025D57AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13B40A8-C29B-486A-A9CC-6257A490817E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13B40A8-C29B-486A-A9CC-6257A490817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13B40A8-C29B-486A-A9CC-6257A490817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13B40A8-C29B-486A-A9CC-6257A490817E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DA9C05-3A8A-4477-B7DF-877C4C751751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DA9C05-3A8A-4477-B7DF-877C4C751751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DA9C05-3A8A-4477-B7DF-877C4C751751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DA9C05-3A8A-4477-B7DF-877C4C751751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

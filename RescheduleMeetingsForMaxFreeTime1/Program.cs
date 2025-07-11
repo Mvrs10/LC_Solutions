@@ -19,9 +19,9 @@ internal class Program
         int windowSum = 0;
         for (int i = 0; i < gaps.Length; i++) // Consecutive gaps
         {
-            windowSum += gaps[i]; // Build the window
-            if (i >= k) freeTime = Math.Max(freeTime,windowSum); // Update max
-            if (i >= k + 1) windowSum -= gaps[i - k]; // Slide the window
+            windowSum += gaps[i]; // Build the window            
+            if (i >= k + 1) windowSum -= gaps[i - (k+1)]; // Slide the window
+            if (i >= k) freeTime = Math.Max(freeTime, windowSum); // Update max
         }
         return freeTime;
     }

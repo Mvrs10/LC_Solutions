@@ -157,6 +157,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseVowelsOfAString", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArrays", "IntersectionOfTwoArrays\IntersectionOfTwoArrays.csproj", "{2093B727-098B-407B-B5C3-75C94ADEDCF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertBinaryNumberInALinkedListToInteger", "ConvertBinaryNumberInALinkedListToInteger\ConvertBinaryNumberInALinkedListToInteger.csproj", "{AC6F52E0-1843-4787-B30E-D89461C59034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -471,6 +473,10 @@ Global
 		{2093B727-098B-407B-B5C3-75C94ADEDCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2093B727-098B-407B-B5C3-75C94ADEDCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2093B727-098B-407B-B5C3-75C94ADEDCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6F52E0-1843-4787-B30E-D89461C59034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6F52E0-1843-4787-B30E-D89461C59034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6F52E0-1843-4787-B30E-D89461C59034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6F52E0-1843-4787-B30E-D89461C59034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

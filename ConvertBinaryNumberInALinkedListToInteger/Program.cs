@@ -4,7 +4,7 @@ namespace ConvertBinaryNumberInALinkedListToInteger;
 
 internal class Program
 {
-    private static int GetDecmialValue(ListNode head)
+    private static int GetDecimalValue(ListNode head)
     {
         int result = 0;
         while (head != null)
@@ -19,7 +19,7 @@ internal class Program
         ListNode head = new ListNode(1);
         head.next = new ListNode(0);
         head.next.next = new ListNode(1);
-        int result = GetDecmialValue(head);
+        int result = GetDecimalValue(head);
         Console.WriteLine(result);
     }
 }

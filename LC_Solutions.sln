@@ -159,6 +159,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArrays", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertBinaryNumberInALinkedListToInteger", "ConvertBinaryNumberInALinkedListToInteger\ConvertBinaryNumberInALinkedListToInteger.csproj", "{AC6F52E0-1843-4787-B30E-D89461C59034}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidWord", "ValidWord\ValidWord.csproj", "{78259925-5937-4281-A041-78DB57BF304B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -477,6 +479,10 @@ Global
 		{AC6F52E0-1843-4787-B30E-D89461C59034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC6F52E0-1843-4787-B30E-D89461C59034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC6F52E0-1843-4787-B30E-D89461C59034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78259925-5937-4281-A041-78DB57BF304B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78259925-5937-4281-A041-78DB57BF304B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78259925-5937-4281-A041-78DB57BF304B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78259925-5937-4281-A041-78DB57BF304B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

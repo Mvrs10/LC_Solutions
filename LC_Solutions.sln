@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertBinaryNumberInALinke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidWord", "ValidWord\ValidWord.csproj", "{78259925-5937-4281-A041-78DB57BF304B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMaximumLengthOfValidSubsequent1", "FindTheMaximumLengthOfValidSubsequent1\FindTheMaximumLengthOfValidSubsequent1.csproj", "{4CDB8C27-4F45-41A5-A9C5-F01FBC83DF17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{78259925-5937-4281-A041-78DB57BF304B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78259925-5937-4281-A041-78DB57BF304B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78259925-5937-4281-A041-78DB57BF304B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDB8C27-4F45-41A5-A9C5-F01FBC83DF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDB8C27-4F45-41A5-A9C5-F01FBC83DF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDB8C27-4F45-41A5-A9C5-F01FBC83DF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDB8C27-4F45-41A5-A9C5-F01FBC83DF17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

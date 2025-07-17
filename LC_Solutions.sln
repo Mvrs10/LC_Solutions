@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArrays2", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPerfectSquare", "ValidPerfectSquare\ValidPerfectSquare.csproj", "{6D4BADB6-C651-4581-9785-B738C6ECCBAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberHigherOrLower", "GuessNumberHigherOrLower\GuessNumberHigherOrLower.csproj", "{FC12F8B0-79E1-4E46-9065-5AC8485CE9FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{6D4BADB6-C651-4581-9785-B738C6ECCBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D4BADB6-C651-4581-9785-B738C6ECCBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D4BADB6-C651-4581-9785-B738C6ECCBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC12F8B0-79E1-4E46-9065-5AC8485CE9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC12F8B0-79E1-4E46-9065-5AC8485CE9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC12F8B0-79E1-4E46-9065-5AC8485CE9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC12F8B0-79E1-4E46-9065-5AC8485CE9FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -165,6 +165,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMaximumLengthOfValid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArrays2", "IntersectionOfTwoArrays2\IntersectionOfTwoArrays2.csproj", "{E8AE6645-669A-499A-9E78-A13D271C0D09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPerfectSquare", "ValidPerfectSquare\ValidPerfectSquare.csproj", "{6D4BADB6-C651-4581-9785-B738C6ECCBAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -495,6 +497,10 @@ Global
 		{E8AE6645-669A-499A-9E78-A13D271C0D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8AE6645-669A-499A-9E78-A13D271C0D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8AE6645-669A-499A-9E78-A13D271C0D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4BADB6-C651-4581-9785-B738C6ECCBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4BADB6-C651-4581-9785-B738C6ECCBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4BADB6-C651-4581-9785-B738C6ECCBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4BADB6-C651-4581-9785-B738C6ECCBAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

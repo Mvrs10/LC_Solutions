@@ -171,6 +171,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberHigherOrLower", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{45CC1746-AD31-46F2-A8AF-A5E2BBBD4922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacterInAString", "FirstUniqueCharacterInAString\FirstUniqueCharacterInAString.csproj", "{34729956-4E58-4B6C-B642-AC810A68328F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -513,6 +515,10 @@ Global
 		{45CC1746-AD31-46F2-A8AF-A5E2BBBD4922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45CC1746-AD31-46F2-A8AF-A5E2BBBD4922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45CC1746-AD31-46F2-A8AF-A5E2BBBD4922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34729956-4E58-4B6C-B642-AC810A68328F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34729956-4E58-4B6C-B642-AC810A68328F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34729956-4E58-4B6C-B642-AC810A68328F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34729956-4E58-4B6C-B642-AC810A68328F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

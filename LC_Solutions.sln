@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheDifference", "FindTh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicateFoldersInSystem", "DeleteDuplicateFoldersInSystem\DeleteDuplicateFoldersInSystem.csproj", "{B142CF42-E8FB-4C8B-BC86-2B39689DC989}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubsequence\IsSubsequence.csproj", "{66159724-0E0A-4957-960F-53FC5721A881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +539,10 @@ Global
 		{B142CF42-E8FB-4C8B-BC86-2B39689DC989}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B142CF42-E8FB-4C8B-BC86-2B39689DC989}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B142CF42-E8FB-4C8B-BC86-2B39689DC989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66159724-0E0A-4957-960F-53FC5721A881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66159724-0E0A-4957-960F-53FC5721A881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66159724-0E0A-4957-960F-53FC5721A881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66159724-0E0A-4957-960F-53FC5721A881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

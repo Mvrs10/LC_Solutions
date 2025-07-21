@@ -6,8 +6,7 @@ internal class Program
     {
         Array.Sort(folder);
 
-        IList<string> result = new List<string>();
-        result.Add(folder[0]);
+        IList<string> result = [folder[0]];
         string root = folder[0];
         for (int i = 1; i < folder.Length; i++)
         {

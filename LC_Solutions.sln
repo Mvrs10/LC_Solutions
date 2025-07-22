@@ -183,6 +183,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubseque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteCharactersToMakeFancyString", "DeleteCharactersToMakeFancyString\DeleteCharactersToMakeFancyString.csproj", "{65DC9C43-9220-4DCF-A427-787720888356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfLeftLeaves", "SumOfLeftLeaves\SumOfLeftLeaves.csproj", "{AC8939A1-03A7-4448-AF84-956749EB619A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -549,6 +551,10 @@ Global
 		{65DC9C43-9220-4DCF-A427-787720888356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65DC9C43-9220-4DCF-A427-787720888356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65DC9C43-9220-4DCF-A427-787720888356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8939A1-03A7-4448-AF84-956749EB619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8939A1-03A7-4448-AF84-956749EB619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8939A1-03A7-4448-AF84-956749EB619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8939A1-03A7-4448-AF84-956749EB619A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

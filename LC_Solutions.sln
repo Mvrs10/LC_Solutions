@@ -191,6 +191,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumUniqueSubarraySumAft
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryWatch", "BinaryWatch\BinaryWatch.csproj", "{1FFDB687-D9F2-4802-BB6E-90255EF97FF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertANumberToHexaDecimal", "ConvertANumberToHexaDecimal\ConvertANumberToHexaDecimal.csproj", "{07C34B64-92EC-4D57-9289-0251F33AF80B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -573,6 +575,10 @@ Global
 		{1FFDB687-D9F2-4802-BB6E-90255EF97FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FFDB687-D9F2-4802-BB6E-90255EF97FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FFDB687-D9F2-4802-BB6E-90255EF97FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C34B64-92EC-4D57-9289-0251F33AF80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C34B64-92EC-4D57-9289-0251F33AF80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C34B64-92EC-4D57-9289-0251F33AF80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C34B64-92EC-4D57-9289-0251F33AF80B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

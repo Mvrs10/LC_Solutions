@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertIntegerToTheSumOfTwoNoZeroIntegers", "ConvertIntegerToTheSumOfTwoNoZeroIntegers\ConvertIntegerToTheSumOfTwoNoZeroIntegers.csproj", "{3F12AB04-E34F-4A14-A62D-80544B43D33D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitsIntoBaskets2", "FruitsIntoBaskets2\FruitsIntoBaskets2.csproj", "{12B505A5-D149-4306-8F6B-EE302898E2BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -597,6 +599,10 @@ Global
 		{3F12AB04-E34F-4A14-A62D-80544B43D33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F12AB04-E34F-4A14-A62D-80544B43D33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F12AB04-E34F-4A14-A62D-80544B43D33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B505A5-D149-4306-8F6B-EE302898E2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B505A5-D149-4306-8F6B-EE302898E2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B505A5-D149-4306-8F6B-EE302898E2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B505A5-D149-4306-8F6B-EE302898E2BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

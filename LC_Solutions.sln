@@ -201,6 +201,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertIntegerToTheSumOfTwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitsIntoBaskets2", "FruitsIntoBaskets2\FruitsIntoBaskets2.csproj", "{12B505A5-D149-4306-8F6B-EE302898E2BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest3SameDigitNumberInString", "Largest3SameDigitNumberInString\Largest3SameDigitNumberInString.csproj", "{0613AD20-1868-4B11-A95F-4B5C542FF617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -603,6 +605,10 @@ Global
 		{12B505A5-D149-4306-8F6B-EE302898E2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B505A5-D149-4306-8F6B-EE302898E2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B505A5-D149-4306-8F6B-EE302898E2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0613AD20-1868-4B11-A95F-4B5C542FF617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0613AD20-1868-4B11-A95F-4B5C542FF617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0613AD20-1868-4B11-A95F-4B5C542FF617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0613AD20-1868-4B11-A95F-4B5C542FF617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

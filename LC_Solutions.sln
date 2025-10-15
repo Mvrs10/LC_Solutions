@@ -213,6 +213,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountElementsWithMaximumFre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacentIncreasingSubarrayDetection1", "AdjacentIncreasingSubarrayDetection1\AdjacentIncreasingSubarrayDetection1.csproj", "{FCCAFF82-93C1-4699-B9C8-B4A870323AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsGameInAString", "VowelsGameInAString\VowelsGameInAString.csproj", "{F2B00CB2-0903-4494-885D-7B41C5AA169C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -639,6 +641,10 @@ Global
 		{FCCAFF82-93C1-4699-B9C8-B4A870323AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCCAFF82-93C1-4699-B9C8-B4A870323AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCCAFF82-93C1-4699-B9C8-B4A870323AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B00CB2-0903-4494-885D-7B41C5AA169C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B00CB2-0903-4494-885D-7B41C5AA169C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B00CB2-0903-4494-885D-7B41C5AA169C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B00CB2-0903-4494-885D-7B41C5AA169C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

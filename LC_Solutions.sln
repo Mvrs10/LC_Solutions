@@ -219,6 +219,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestMissingNonNegativeI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalValueOfVariableAfterPerformingOperations", "FinalValueOfVariableAfterPerformingOperations\FinalValueOfVariableAfterPerformingOperations.csproj", "{89D7C872-869C-4D06-BCAC-B165DA6355DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfDigitsAreEqualInStringAfterOperations1", "CheckIfDigitsAreEqualInStringAfterOperations1\CheckIfDigitsAreEqualInStringAfterOperations1.csproj", "{90471CBB-6A95-4FB2-BD5D-1BCA25761621}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -657,6 +659,10 @@ Global
 		{89D7C872-869C-4D06-BCAC-B165DA6355DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D7C872-869C-4D06-BCAC-B165DA6355DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D7C872-869C-4D06-BCAC-B165DA6355DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90471CBB-6A95-4FB2-BD5D-1BCA25761621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90471CBB-6A95-4FB2-BD5D-1BCA25761621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90471CBB-6A95-4FB2-BD5D-1BCA25761621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90471CBB-6A95-4FB2-BD5D-1BCA25761621}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

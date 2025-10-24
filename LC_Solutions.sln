@@ -221,6 +221,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalValueOfVariableAfterPe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfDigitsAreEqualInStringAfterOperations1", "CheckIfDigitsAreEqualInStringAfterOperations1\CheckIfDigitsAreEqualInStringAfterOperations1.csproj", "{90471CBB-6A95-4FB2-BD5D-1BCA25761621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextGreaterNumericallyBalancedNumber", "NextGreaterNumericallyBalancedNumber\NextGreaterNumericallyBalancedNumber.csproj", "{817540FA-BB5F-4ECB-A700-A2E7F30BA33D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -663,6 +665,10 @@ Global
 		{90471CBB-6A95-4FB2-BD5D-1BCA25761621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90471CBB-6A95-4FB2-BD5D-1BCA25761621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90471CBB-6A95-4FB2-BD5D-1BCA25761621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817540FA-BB5F-4ECB-A700-A2E7F30BA33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817540FA-BB5F-4ECB-A700-A2E7F30BA33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817540FA-BB5F-4ECB-A700-A2E7F30BA33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817540FA-BB5F-4ECB-A700-A2E7F30BA33D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -233,6 +233,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfIncrementsOn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTwoSneakyNumbersOfDigitville", "TheTwoSneakyNumbersOfDigitville\TheTwoSneakyNumbersOfDigitville.csproj", "{6AE0CA5F-B8A4-48D3-8D9A-9AFB6CEC8F64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNodesFromLinkedListPresentInArray", "DeleteNodesFromLinkedListPresentInArray\DeleteNodesFromLinkedListPresentInArray.csproj", "{83F496FD-1512-4380-933E-FD0CFB7791AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -699,6 +701,10 @@ Global
 		{6AE0CA5F-B8A4-48D3-8D9A-9AFB6CEC8F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AE0CA5F-B8A4-48D3-8D9A-9AFB6CEC8F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AE0CA5F-B8A4-48D3-8D9A-9AFB6CEC8F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F496FD-1512-4380-933E-FD0CFB7791AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F496FD-1512-4380-933E-FD0CFB7791AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F496FD-1512-4380-933E-FD0CFB7791AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F496FD-1512-4380-933E-FD0CFB7791AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

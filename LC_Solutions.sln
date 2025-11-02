@@ -235,6 +235,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTwoSneakyNumbersOfDigitv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteNodesFromLinkedListPresentInArray", "DeleteNodesFromLinkedListPresentInArray\DeleteNodesFromLinkedListPresentInArray.csproj", "{83F496FD-1512-4380-933E-FD0CFB7791AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountUnguardedCellsInTheGrid", "CountUnguardedCellsInTheGrid\CountUnguardedCellsInTheGrid.csproj", "{A89A3556-4F8D-4889-9920-3D7A0898A882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -705,6 +707,10 @@ Global
 		{83F496FD-1512-4380-933E-FD0CFB7791AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83F496FD-1512-4380-933E-FD0CFB7791AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83F496FD-1512-4380-933E-FD0CFB7791AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89A3556-4F8D-4889-9920-3D7A0898A882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89A3556-4F8D-4889-9920-3D7A0898A882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89A3556-4F8D-4889-9920-3D7A0898A882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89A3556-4F8D-4889-9920-3D7A0898A882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

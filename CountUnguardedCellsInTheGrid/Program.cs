@@ -2,55 +2,9 @@
 
 internal class Program
 {
-    private static int MoveHorizontallyAndCountGuarded(char[,] grid, int x, int y, int direction)
-    {
-        int guardedCell = 0;
-        int currentY = y + direction;
-
-        while (currentY >= 0 && currentY < grid.GetLength(1))
-        {
-            char cell = grid[x, currentY];
-
-            if (cell == 'W')
-                break;
-            if (cell != 'G' && cell != 'R')
-            {
-                grid[x, currentY] = 'R';
-                guardedCell++;
-            }
-
-            currentY += direction;
-        }
-
-        return guardedCell;
-    }
-
-    private static int MoveVerticallyAndCountGuarded(char[,] grid, int x, int y, int direction)
-    {
-        int guardedCell = 0;
-        int currentX = x + direction;
-
-        while (currentX >= 0 && currentX < grid.GetLength(0))
-        {
-            char cell = grid[currentX, y];
-
-            if (cell == 'W')
-                break;
-            if (cell != 'G' && cell != 'R')
-            {
-                grid[currentX, y] = 'R';
-                guardedCell++;
-            }
-
-            currentX += direction;
-        }
-
-        return guardedCell;
-    }
     private static int CountUnguarded_v1(int m, int n, int[][] guards, int[][] walls)
     {
         char[,] grid = new char[m, n];
-        int guarded = 0;
 
         foreach (int[] w in walls)
         {
@@ -62,15 +16,39 @@ internal class Program
             grid[g[0], g[1]] = 'G';
         }
 
+        int[][] directions = [[0, 1], [0, -1], [1, 0], [-1, 0]];
+
         foreach (int[] g in guards)
         {
-            guarded += MoveHorizontallyAndCountGuarded(grid, g[0], g[1], 1);
-            guarded += MoveHorizontallyAndCountGuarded(grid, g[0], g[1], -1);
-            guarded += MoveVerticallyAndCountGuarded(grid, g[0], g[1], 1);
-            guarded += MoveVerticallyAndCountGuarded(grid, g[0], g[1], -1);
+            int x = g[0];
+            int y = g[1];
+
+            foreach (int[] d in directions)
+            {
+                int curX = x + d[0];
+                int curY = y + d[1];
+
+                while(curX >= 0 && curX < m && curY >= 0 && curY < n && grid[curX, curY] != 'G' && grid[curX,curY] != 'W')
+                {
+                    if (grid[curX, curY] == '\0')
+                        grid[curX, curY] = 'R';
+                    curX += d[0];
+                    curY += d[1];
+                }
+            }
         }
 
-        return grid.Length - guarded - guards.Length - walls.Length;
+        int unguarded = 0;
+        for (int i = 0; i < m; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                if (grid[i, j] == '\0')
+                    unguarded++;
+            }
+        }
+
+        return unguarded;
     }
 
     private static int CountUnguarded(int m, int n, int[][] guards, int[][] walls)

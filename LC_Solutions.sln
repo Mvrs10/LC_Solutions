@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountUnguardedCellsInTheGri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumTimeToMakeRopeColorful", "MinimumTimeToMakeRopeColorful\MinimumTimeToMakeRopeColorful.csproj", "{541F23CD-09EA-47FC-B462-768680A93073}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindX-SumOfAllK-LongSubarrays1", "FindX-SumOfAllK-LongSubarrays1\FindX-SumOfAllK-LongSubarrays1.csproj", "{CCB5865B-788A-4B54-A505-8701B69E78A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +719,10 @@ Global
 		{541F23CD-09EA-47FC-B462-768680A93073}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{541F23CD-09EA-47FC-B462-768680A93073}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{541F23CD-09EA-47FC-B462-768680A93073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB5865B-788A-4B54-A505-8701B69E78A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB5865B-788A-4B54-A505-8701B69E78A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB5865B-788A-4B54-A505-8701B69E78A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB5865B-788A-4B54-A505-8701B69E78A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,7 +2,7 @@
 
 internal class Program
 {
-    private static int minimumOneBitOperations(int n)
+    private static int MinimumOneBitOperations(int n)
     {
         int result = 0;
         while (n > 0)
@@ -14,7 +14,7 @@ internal class Program
     }
     static void Main(string[] args)
     {
-        int result = minimumOneBitOperations(15);
+        int result = MinimumOneBitOperations(15);
         Console.WriteLine(result);
     }
 }

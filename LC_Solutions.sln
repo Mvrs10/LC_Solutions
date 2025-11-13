@@ -251,6 +251,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnesAndZeroes", "OnesAndZer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1", "MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1\MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1.csproj", "{C4C88488-D4A9-4D99-9BB4-C3B06A2A6EAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfOperationsToMoveOnesToTheEnd", "MaximumNumberOfOperationsToMoveOnesToTheEnd\MaximumNumberOfOperationsToMoveOnesToTheEnd.csproj", "{1510F9A7-7090-43B4-BE3D-E25599538CE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -753,6 +755,10 @@ Global
 		{C4C88488-D4A9-4D99-9BB4-C3B06A2A6EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4C88488-D4A9-4D99-9BB4-C3B06A2A6EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4C88488-D4A9-4D99-9BB4-C3B06A2A6EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1510F9A7-7090-43B4-BE3D-E25599538CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1510F9A7-7090-43B4-BE3D-E25599538CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1510F9A7-7090-43B4-BE3D-E25599538CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1510F9A7-7090-43B4-BE3D-E25599538CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

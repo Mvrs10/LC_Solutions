@@ -2,7 +2,7 @@
 
 internal class Program
 {
-    static int NumberOfStrings(string s)
+    private static int NumberOfStrings(string s)
     {
         int n = s.Length;
         int[] pre = new int[n + 1];

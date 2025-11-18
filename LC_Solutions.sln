@@ -261,6 +261,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSubstringsWithOnly1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfAll1sAreAtLeastLengthKPlacesAway", "CheckIfAll1sAreAtLeastLengthKPlacesAway\CheckIfAll1sAreAtLeastLengthKPlacesAway.csproj", "{9FEADB2B-505F-4415-A3EF-9C27329D3AD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-bitAnd2-bitCharacters", "1-bitAnd2-bitCharacters\1-bitAnd2-bitCharacters.csproj", "{902E7408-8592-455F-86BB-9FE37CE9D8FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -783,6 +785,10 @@ Global
 		{9FEADB2B-505F-4415-A3EF-9C27329D3AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FEADB2B-505F-4415-A3EF-9C27329D3AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FEADB2B-505F-4415-A3EF-9C27329D3AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902E7408-8592-455F-86BB-9FE37CE9D8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902E7408-8592-455F-86BB-9FE37CE9D8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902E7408-8592-455F-86BB-9FE37CE9D8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902E7408-8592-455F-86BB-9FE37CE9D8FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

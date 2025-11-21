@@ -267,6 +267,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepMultiplyingFoundValuesB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetIntersectionSizeAtLeastTwo", "SetIntersectionSizeAtLeastTwo\SetIntersectionSizeAtLeastTwo.csproj", "{780685C6-AE6F-40C4-A09E-71C78D8B34FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdMaximumNumber", "ThirdMaximumNumber\ThirdMaximumNumber.csproj", "{1A04FAB4-956C-4A96-A9E6-4388DFAFEFA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -801,6 +803,10 @@ Global
 		{780685C6-AE6F-40C4-A09E-71C78D8B34FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{780685C6-AE6F-40C4-A09E-71C78D8B34FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{780685C6-AE6F-40C4-A09E-71C78D8B34FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A04FAB4-956C-4A96-A9E6-4388DFAFEFA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A04FAB4-956C-4A96-A9E6-4388DFAFEFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A04FAB4-956C-4A96-A9E6-4388DFAFEFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A04FAB4-956C-4A96-A9E6-4388DFAFEFA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

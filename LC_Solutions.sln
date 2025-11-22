@@ -271,6 +271,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdMaximumNumber", "Third
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueLength3PalindromicSubsequences", "UniqueLength3PalindromicSubsequences\UniqueLength3PalindromicSubsequences.csproj", "{EBC42912-E1EF-473C-93ED-2350769DBF0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddStrings", "AddStrings\AddStrings.csproj", "{90FDEBB0-B64E-4F95-B98C-A274CAA61CB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -813,6 +815,10 @@ Global
 		{EBC42912-E1EF-473C-93ED-2350769DBF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBC42912-E1EF-473C-93ED-2350769DBF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBC42912-E1EF-473C-93ED-2350769DBF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90FDEBB0-B64E-4F95-B98C-A274CAA61CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FDEBB0-B64E-4F95-B98C-A274CAA61CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FDEBB0-B64E-4F95-B98C-A274CAA61CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FDEBB0-B64E-4F95-B98C-A274CAA61CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

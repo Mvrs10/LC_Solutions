@@ -281,6 +281,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrangingCoins", "Arranging
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllNumbersDisappearedInAnArray", "FindAllNumbersDisappearedInAnArray\FindAllNumbersDisappearedInAnArray.csproj", "{53A10C70-BD89-416B-84DD-3BFD49994EB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestSumDivisibleByThree", "GreatestSumDivisibleByThree\GreatestSumDivisibleByThree.csproj", "{4155E387-C415-48E5-9B69-B641E080B60F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -843,6 +845,10 @@ Global
 		{53A10C70-BD89-416B-84DD-3BFD49994EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53A10C70-BD89-416B-84DD-3BFD49994EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53A10C70-BD89-416B-84DD-3BFD49994EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4155E387-C415-48E5-9B69-B641E080B60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4155E387-C415-48E5-9B69-B641E080B60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4155E387-C415-48E5-9B69-B641E080B60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4155E387-C415-48E5-9B69-B641E080B60F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

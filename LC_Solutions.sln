@@ -285,6 +285,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestSumDivisibleByThree
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPrefixDivisibleByFive", "BinaryPrefixDivisibleByFive\BinaryPrefixDivisibleByFive.csproj", "{7D760943-02BA-412A-A101-CEF003FAEAB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestIntegerDivisibleByK", "SmallestIntegerDivisibleByK\SmallestIntegerDivisibleByK.csproj", "{A358CE39-6142-4F4F-AB22-A7E76927BA97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -855,6 +857,10 @@ Global
 		{7D760943-02BA-412A-A101-CEF003FAEAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D760943-02BA-412A-A101-CEF003FAEAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D760943-02BA-412A-A101-CEF003FAEAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A358CE39-6142-4F4F-AB22-A7E76927BA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A358CE39-6142-4F4F-AB22-A7E76927BA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A358CE39-6142-4F4F-AB22-A7E76927BA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A358CE39-6142-4F4F-AB22-A7E76927BA97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

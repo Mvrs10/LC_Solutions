@@ -289,6 +289,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestIntegerDivisibleByK
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathsInMatrixWhoseSumIsDivisibleByK", "PathsInMatrixWhoseSumIsDivisibleByK\PathsInMatrixWhoseSumIsDivisibleByK.csproj", "{9BD606E4-5CE4-4925-939F-54A0B7A35843}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{B8D581E7-5513-4673-84E3-F9AFF5285A9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -867,6 +869,10 @@ Global
 		{9BD606E4-5CE4-4925-939F-54A0B7A35843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD606E4-5CE4-4925-939F-54A0B7A35843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD606E4-5CE4-4925-939F-54A0B7A35843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D581E7-5513-4673-84E3-F9AFF5285A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D581E7-5513-4673-84E3-F9AFF5285A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D581E7-5513-4673-84E3-F9AFF5285A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D581E7-5513-4673-84E3-F9AFF5285A9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

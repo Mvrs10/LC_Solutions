@@ -291,6 +291,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathsInMatrixWhoseSumIsDivi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{B8D581E7-5513-4673-84E3-F9AFF5285A9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarraySumWithLengthDivisibleByK", "MaximumSubarraySumWithLengthDivisibleByK\MaximumSubarraySumWithLengthDivisibleByK.csproj", "{54DFF235-B585-485C-8AF6-5BD18FE55CE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -873,6 +875,10 @@ Global
 		{B8D581E7-5513-4673-84E3-F9AFF5285A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D581E7-5513-4673-84E3-F9AFF5285A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D581E7-5513-4673-84E3-F9AFF5285A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DFF235-B585-485C-8AF6-5BD18FE55CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DFF235-B585-485C-8AF6-5BD18FE55CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DFF235-B585-485C-8AF6-5BD18FE55CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DFF235-B585-485C-8AF6-5BD18FE55CE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

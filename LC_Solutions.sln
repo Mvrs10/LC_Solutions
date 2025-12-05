@@ -305,6 +305,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumberOfTrapezoids1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCollisionsOnARoad", "CountCollisionsOnARoad\CountCollisionsOnARoad.csproj", "{16267981-DF51-4653-BB4E-A6EE0B0B006C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPartitionsWithEvenSumDifference", "CountPartitionsWithEvenSumDifference\CountPartitionsWithEvenSumDifference.csproj", "{E4185E3E-E8B6-45BF-9B9A-6B2E3203D64E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -915,6 +917,10 @@ Global
 		{16267981-DF51-4653-BB4E-A6EE0B0B006C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16267981-DF51-4653-BB4E-A6EE0B0B006C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16267981-DF51-4653-BB4E-A6EE0B0B006C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4185E3E-E8B6-45BF-9B9A-6B2E3203D64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4185E3E-E8B6-45BF-9B9A-6B2E3203D64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4185E3E-E8B6-45BF-9B9A-6B2E3203D64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4185E3E-E8B6-45BF-9B9A-6B2E3203D64E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

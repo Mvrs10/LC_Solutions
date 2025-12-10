@@ -315,6 +315,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSquareSumTriples", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOddNumbersInAnIntervalRange", "CountOddNumbersInAnIntervalRange\CountOddNumbersInAnIntervalRange.csproj", "{9A4C9DB9-68E9-418F-A8F9-00BA54A4B129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheNumberOfComputerUnlockingPermutations", "CountTheNumberOfComputerUnlockingPermutations\CountTheNumberOfComputerUnlockingPermutations.csproj", "{1C0EC8D8-7EFE-42A4-9BB3-FDB87E6A3612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -945,6 +947,10 @@ Global
 		{9A4C9DB9-68E9-418F-A8F9-00BA54A4B129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A4C9DB9-68E9-418F-A8F9-00BA54A4B129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A4C9DB9-68E9-418F-A8F9-00BA54A4B129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0EC8D8-7EFE-42A4-9BB3-FDB87E6A3612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0EC8D8-7EFE-42A4-9BB3-FDB87E6A3612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0EC8D8-7EFE-42A4-9BB3-FDB87E6A3612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0EC8D8-7EFE-42A4-9BB3-FDB87E6A3612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

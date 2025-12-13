@@ -319,6 +319,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheNumberOfComputerUnl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCoveredBuildings", "CountCoveredBuildings\CountCoveredBuildings.csproj", "{6531BA16-8C3F-4ED8-AA24-DB68A1855122}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponCodeValidator", "CouponCodeValidator\CouponCodeValidator.csproj", "{061613C8-BA9C-4789-A723-D5E46A29837C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -957,6 +959,10 @@ Global
 		{6531BA16-8C3F-4ED8-AA24-DB68A1855122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6531BA16-8C3F-4ED8-AA24-DB68A1855122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6531BA16-8C3F-4ED8-AA24-DB68A1855122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061613C8-BA9C-4789-A723-D5E46A29837C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061613C8-BA9C-4789-A723-D5E46A29837C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061613C8-BA9C-4789-A723-D5E46A29837C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061613C8-BA9C-4789-A723-D5E46A29837C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

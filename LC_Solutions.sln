@@ -329,6 +329,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted2"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted3", "DeleteColumnsToMakeSorted3\DeleteColumnsToMakeSorted3.csproj", "{A745702B-5151-4740-A428-77AF45407619}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoBestNonOverlappingEvents", "TwoBestNonOverlappingEvents\TwoBestNonOverlappingEvents.csproj", "{4559DB3A-0273-4531-B8FD-858F3698EFFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -987,6 +989,10 @@ Global
 		{A745702B-5151-4740-A428-77AF45407619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A745702B-5151-4740-A428-77AF45407619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A745702B-5151-4740-A428-77AF45407619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4559DB3A-0273-4531-B8FD-858F3698EFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4559DB3A-0273-4531-B8FD-858F3698EFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4559DB3A-0273-4531-B8FD-858F3698EFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4559DB3A-0273-4531-B8FD-858F3698EFFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

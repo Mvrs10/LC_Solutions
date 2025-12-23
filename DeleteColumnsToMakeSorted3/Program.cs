@@ -4,7 +4,6 @@ internal class Program
 {
     private static int MinDeletionSize(string[] strs)
     {
-        int n = strs.Length;
         int m = strs[0].Length;
 
         int[] dpLongestPossible = new int[m];
@@ -44,6 +43,10 @@ internal class Program
     {
         string[] strs = ["babca", "bbazb"];
         int result = MinDeletionSize(strs);
+        Console.WriteLine(result);
+
+        strs = ["abcde"];
+        result = MinDeletionSize(strs);
         Console.WriteLine(result);
     }
 }

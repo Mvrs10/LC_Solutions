@@ -24,8 +24,6 @@ internal class Program
                 bestClosingTime = i;
             }
 
-            //if (i == customers.Length) break;
-
             if (customers[i] == 'Y')
             {
                 yes--;

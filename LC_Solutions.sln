@@ -339,6 +339,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPenaltyForAShop", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingRoom3", "MeetingRoom3\MeetingRoom3.csproj", "{5CDE6E51-8EE5-4C8B-A1B5-C169CD83E6D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNegativeNumbersInASortedMatrix", "CountNegativeNumbersInASortedMatrix\CountNegativeNumbersInASortedMatrix.csproj", "{320E9493-67A2-456B-972F-C725AA8C0BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1017,6 +1019,10 @@ Global
 		{5CDE6E51-8EE5-4C8B-A1B5-C169CD83E6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CDE6E51-8EE5-4C8B-A1B5-C169CD83E6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CDE6E51-8EE5-4C8B-A1B5-C169CD83E6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320E9493-67A2-456B-972F-C725AA8C0BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320E9493-67A2-456B-972F-C725AA8C0BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320E9493-67A2-456B-972F-C725AA8C0BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320E9493-67A2-456B-972F-C725AA8C0BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

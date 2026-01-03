@@ -343,6 +343,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNegativeNumbersInASort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRepeatedElementInSize2NArray", "NRepeatedElementInSize2NArray\NRepeatedElementInSize2NArray.csproj", "{813AA4E7-1DD4-4664-85E2-ACAB5FE95926}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfWaysToPaintNx3Grid", "NumberOfWaysToPaintNx3Grid\NumberOfWaysToPaintNx3Grid.csproj", "{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1029,6 +1031,10 @@ Global
 		{813AA4E7-1DD4-4664-85E2-ACAB5FE95926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{813AA4E7-1DD4-4664-85E2-ACAB5FE95926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{813AA4E7-1DD4-4664-85E2-ACAB5FE95926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

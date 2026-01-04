@@ -345,6 +345,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRepeatedElementInSize2NArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfWaysToPaintNx3Grid", "NumberOfWaysToPaintNx3Grid\NumberOfWaysToPaintNx3Grid.csproj", "{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDivisors", "FourDivisors\FourDivisors.csproj", "{D53FC9EE-16BD-4782-8C3E-B63123C1B327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1035,6 +1037,10 @@ Global
 		{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94C19E1C-1A74-4CFC-97B0-090BA4219A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53FC9EE-16BD-4782-8C3E-B63123C1B327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53FC9EE-16BD-4782-8C3E-B63123C1B327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53FC9EE-16BD-4782-8C3E-B63123C1B327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53FC9EE-16BD-4782-8C3E-B63123C1B327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

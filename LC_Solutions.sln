@@ -351,6 +351,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumMatrixSum", "Maximum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumLevelSumOfABinaryTree", "MaximumLevelSumOfABinaryTree\MaximumLevelSumOfABinaryTree.csproj", "{1053D68D-33A4-41F8-9487-98A5399E4834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumProductOfSplittedBinaryTree", "MaximumProductOfSplittedBinaryTree\MaximumProductOfSplittedBinaryTree.csproj", "{F9D59415-2AD4-4DFE-89A0-DB6E03632676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1053,6 +1055,10 @@ Global
 		{1053D68D-33A4-41F8-9487-98A5399E4834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1053D68D-33A4-41F8-9487-98A5399E4834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1053D68D-33A4-41F8-9487-98A5399E4834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D59415-2AD4-4DFE-89A0-DB6E03632676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D59415-2AD4-4DFE-89A0-DB6E03632676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D59415-2AD4-4DFE-89A0-DB6E03632676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D59415-2AD4-4DFE-89A0-DB6E03632676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

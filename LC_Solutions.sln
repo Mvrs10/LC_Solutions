@@ -355,6 +355,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumProductOfSplittedBin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumDotProductOfTwoSubsequences", "MaximumDotProductOfTwoSubsequences\MaximumDotProductOfTwoSubsequences.csproj", "{19FCFE8C-3A6B-4ECC-A63F-24A9F4D0E631}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestSubtreeWithAllTheDeepestNodes", "SmallestSubtreeWithAllTheDeepestNodes\SmallestSubtreeWithAllTheDeepestNodes.csproj", "{CA192EBA-BE69-4BE4-8EA3-FB3AA20C4FD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1065,6 +1067,10 @@ Global
 		{19FCFE8C-3A6B-4ECC-A63F-24A9F4D0E631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19FCFE8C-3A6B-4ECC-A63F-24A9F4D0E631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19FCFE8C-3A6B-4ECC-A63F-24A9F4D0E631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA192EBA-BE69-4BE4-8EA3-FB3AA20C4FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA192EBA-BE69-4BE4-8EA3-FB3AA20C4FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA192EBA-BE69-4BE4-8EA3-FB3AA20C4FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA192EBA-BE69-4BE4-8EA3-FB3AA20C4FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

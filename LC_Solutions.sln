@@ -361,6 +361,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumASCIIDeleteSumForTwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalRectangle", "MaximalRectangle\MaximalRectangle.csproj", "{8A64D8AE-7C64-4830-B2EB-34D7074D4501}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumTimeVisitingAllPoints", "MinimumTimeVisitingAllPoints\MinimumTimeVisitingAllPoints.csproj", "{09C79DF3-BCA2-4C30-BEC8-7FED0203FA62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1083,6 +1085,10 @@ Global
 		{8A64D8AE-7C64-4830-B2EB-34D7074D4501}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A64D8AE-7C64-4830-B2EB-34D7074D4501}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A64D8AE-7C64-4830-B2EB-34D7074D4501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C79DF3-BCA2-4C30-BEC8-7FED0203FA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C79DF3-BCA2-4C30-BEC8-7FED0203FA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C79DF3-BCA2-4C30-BEC8-7FED0203FA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C79DF3-BCA2-4C30-BEC8-7FED0203FA62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

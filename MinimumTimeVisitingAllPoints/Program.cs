@@ -18,6 +18,8 @@ internal class Program
 
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int[][] points = [[1, 1], [3, 4], [-1, 0]];
+        int result = MinTimeToVisitAllPoints(points);
+        Console.WriteLine(result);
     }
 }

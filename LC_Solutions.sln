@@ -373,6 +373,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheLargestAreaOfSquareI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestMagicSquare", "LargestMagicSquare\LargestMagicSquare.csproj", "{FA3639E5-99D5-4F08-B580-41FDF1D42A2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold", "MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold\MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.csproj", "{272F5662-73F0-4D2F-828E-710778FEEB6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1119,6 +1121,10 @@ Global
 		{FA3639E5-99D5-4F08-B580-41FDF1D42A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA3639E5-99D5-4F08-B580-41FDF1D42A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA3639E5-99D5-4F08-B580-41FDF1D42A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272F5662-73F0-4D2F-828E-710778FEEB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272F5662-73F0-4D2F-828E-710778FEEB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272F5662-73F0-4D2F-828E-710778FEEB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272F5662-73F0-4D2F-828E-710778FEEB6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

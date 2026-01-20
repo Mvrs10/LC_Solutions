@@ -375,6 +375,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestMagicSquare", "Large
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold", "MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold\MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.csproj", "{272F5662-73F0-4D2F-828E-710778FEEB6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructTheMinimumBitwiseArray1", "ConstructTheMinimumBitwiseArray1\ConstructTheMinimumBitwiseArray1.csproj", "{D9B8F2FB-5C9F-43B8-8088-C529FB6E00F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1125,6 +1127,10 @@ Global
 		{272F5662-73F0-4D2F-828E-710778FEEB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{272F5662-73F0-4D2F-828E-710778FEEB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{272F5662-73F0-4D2F-828E-710778FEEB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B8F2FB-5C9F-43B8-8088-C529FB6E00F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B8F2FB-5C9F-43B8-8088-C529FB6E00F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B8F2FB-5C9F-43B8-8088-C529FB6E00F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B8F2FB-5C9F-43B8-8088-C529FB6E00F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

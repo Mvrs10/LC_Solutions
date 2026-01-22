@@ -379,6 +379,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructTheMinimumBitwiseA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructTheMinimumBitwiseArray2", "ConstructTheMinimumBitwiseArray2\ConstructTheMinimumBitwiseArray2.csproj", "{FD9D50EB-C544-45BA-8948-2D408698FB52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPairRemovalToSortArray1", "MinimumPairRemovalToSortArray1\MinimumPairRemovalToSortArray1.csproj", "{541E7BA1-BAC1-4E85-A85D-AB269957747B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1137,6 +1139,10 @@ Global
 		{FD9D50EB-C544-45BA-8948-2D408698FB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD9D50EB-C544-45BA-8948-2D408698FB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD9D50EB-C544-45BA-8948-2D408698FB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541E7BA1-BAC1-4E85-A85D-AB269957747B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541E7BA1-BAC1-4E85-A85D-AB269957747B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541E7BA1-BAC1-4E85-A85D-AB269957747B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541E7BA1-BAC1-4E85-A85D-AB269957747B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

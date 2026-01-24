@@ -7,7 +7,7 @@ internal class Program
         int ops = 0;
         List<int> nums2 = new List<int>(nums);
 
-        while (!isNonDecreasing(nums2))
+        while (!IsNonDecreasing(nums2))
         {
             RemoveMinPair(nums2);
             ops++;
@@ -16,7 +16,7 @@ internal class Program
         return ops;
     }
 
-    private static bool isNonDecreasing(List<int> nums)
+    private static bool IsNonDecreasing(List<int> nums)
     {
         for (int i = 0; i < nums.Count - 1; i++)
         {

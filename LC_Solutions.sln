@@ -383,6 +383,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPairRemovalToSortArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeMaximumPairSumInArray", "MinimizeMaximumPairSumInArray\MinimizeMaximumPairSumInArray.csproj", "{3D0E1D23-9227-4C97-9535-B18C45A8C401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDifferenceBetweenHighestandLowestofKScores", "MinimumDifferenceBetweenHighestandLowestofKScores\MinimumDifferenceBetweenHighestandLowestofKScores.csproj", "{BD91777E-A3A5-4E34-937D-B134E655F740}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1149,6 +1151,10 @@ Global
 		{3D0E1D23-9227-4C97-9535-B18C45A8C401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D0E1D23-9227-4C97-9535-B18C45A8C401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D0E1D23-9227-4C97-9535-B18C45A8C401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD91777E-A3A5-4E34-937D-B134E655F740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD91777E-A3A5-4E34-937D-B134E655F740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD91777E-A3A5-4E34-937D-B134E655F740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD91777E-A3A5-4E34-937D-B134E655F740}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

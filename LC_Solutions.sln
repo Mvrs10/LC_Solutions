@@ -387,6 +387,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDifferenceBetweenHig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDifference", "MinimumAbsoluteDifference\MinimumAbsoluteDifference.csproj", "{E730F9D6-30CE-4BD8-8C0C-C711BC356396}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCostPathWithEdgeReversals", "MinimumCostPathWithEdgeReversals\MinimumCostPathWithEdgeReversals.csproj", "{34627D44-F5D1-412F-A881-271478216178}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1161,6 +1163,10 @@ Global
 		{E730F9D6-30CE-4BD8-8C0C-C711BC356396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E730F9D6-30CE-4BD8-8C0C-C711BC356396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E730F9D6-30CE-4BD8-8C0C-C711BC356396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34627D44-F5D1-412F-A881-271478216178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34627D44-F5D1-412F-A881-271478216178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34627D44-F5D1-412F-A881-271478216178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34627D44-F5D1-412F-A881-271478216178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

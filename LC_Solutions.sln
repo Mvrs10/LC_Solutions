@@ -389,6 +389,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDifference",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCostPathWithEdgeReversals", "MinimumCostPathWithEdgeReversals\MinimumCostPathWithEdgeReversals.csproj", "{34627D44-F5D1-412F-A881-271478216178}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCostToConvertString1", "MinimumCostToConvertString1\MinimumCostToConvertString1.csproj", "{90370E57-F265-48F9-A1D3-E145CA42D91E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1167,6 +1169,10 @@ Global
 		{34627D44-F5D1-412F-A881-271478216178}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34627D44-F5D1-412F-A881-271478216178}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34627D44-F5D1-412F-A881-271478216178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90370E57-F265-48F9-A1D3-E145CA42D91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90370E57-F265-48F9-A1D3-E145CA42D91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90370E57-F265-48F9-A1D3-E145CA42D91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90370E57-F265-48F9-A1D3-E145CA42D91E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

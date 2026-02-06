@@ -399,6 +399,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrionicArray1", "TrionicArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransfomedArray", "TransfomedArray\TransfomedArray.csproj", "{094C2113-E7BA-48EB-AC7A-98953C4BC474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRemovalsToBalanceArray", "MinimumRemovalsToBalanceArray\MinimumRemovalsToBalanceArray.csproj", "{16D53AC5-E93E-4FE4-A7E5-7C2AE67A26D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1197,6 +1199,10 @@ Global
 		{094C2113-E7BA-48EB-AC7A-98953C4BC474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094C2113-E7BA-48EB-AC7A-98953C4BC474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094C2113-E7BA-48EB-AC7A-98953C4BC474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D53AC5-E93E-4FE4-A7E5-7C2AE67A26D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D53AC5-E93E-4FE4-A7E5-7C2AE67A26D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D53AC5-E93E-4FE4-A7E5-7C2AE67A26D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D53AC5-E93E-4FE4-A7E5-7C2AE67A26D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

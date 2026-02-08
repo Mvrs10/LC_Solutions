@@ -403,6 +403,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRemovalsToBalanceArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDeletionsToMakeStringBalance", "MinimumDeletionsToMakeStringBalance\MinimumDeletionsToMakeStringBalance.csproj", "{5036BA54-CA9E-49EF-A549-8B525C535F1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{C6975EFE-AE4C-4D90-903B-5856C349F0DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1209,6 +1211,10 @@ Global
 		{5036BA54-CA9E-49EF-A549-8B525C535F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5036BA54-CA9E-49EF-A549-8B525C535F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5036BA54-CA9E-49EF-A549-8B525C535F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6975EFE-AE4C-4D90-903B-5856C349F0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6975EFE-AE4C-4D90-903B-5856C349F0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6975EFE-AE4C-4D90-903B-5856C349F0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6975EFE-AE4C-4D90-903B-5856C349F0DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

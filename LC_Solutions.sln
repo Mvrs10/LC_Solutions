@@ -407,6 +407,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "Balan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceABinarySearchTree", "BalanceABinarySearchTree\BalanceABinarySearchTree.csproj", "{5779BF6F-92EE-4A7C-800F-5D2156BEA9A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestBalancedSubarray1", "LongestBalancedSubarray1\LongestBalancedSubarray1.csproj", "{65182043-4004-4DE5-9BD9-041601397488}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1221,6 +1223,10 @@ Global
 		{5779BF6F-92EE-4A7C-800F-5D2156BEA9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5779BF6F-92EE-4A7C-800F-5D2156BEA9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5779BF6F-92EE-4A7C-800F-5D2156BEA9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65182043-4004-4DE5-9BD9-041601397488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65182043-4004-4DE5-9BD9-041601397488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65182043-4004-4DE5-9BD9-041601397488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65182043-4004-4DE5-9BD9-041601397488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -425,6 +425,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfAStringContainsAllBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfRootToLeafBinaryNumbers", "SumOfRootToLeafBinaryNumbers\SumOfRootToLeafBinaryNumbers.csproj", "{9331019E-9515-40B4-9280-10BE5F395BE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortIntegersByTheNumberOf1Bits", "SortIntegersByTheNumberOf1Bits\SortIntegersByTheNumberOf1Bits.csproj", "{B2D6E028-5CD0-47CE-A264-5622B6210F5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1275,6 +1277,10 @@ Global
 		{9331019E-9515-40B4-9280-10BE5F395BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9331019E-9515-40B4-9280-10BE5F395BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9331019E-9515-40B4-9280-10BE5F395BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D6E028-5CD0-47CE-A264-5622B6210F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D6E028-5CD0-47CE-A264-5622B6210F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D6E028-5CD0-47CE-A264-5622B6210F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D6E028-5CD0-47CE-A264-5622B6210F5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

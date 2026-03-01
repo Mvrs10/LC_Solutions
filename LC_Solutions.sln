@@ -429,6 +429,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortIntegersByTheNumberOf1B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfStepsToReduceANumberInBinaryRepresentationToOne", "NumberOfStepsToReduceANumberInBinaryRepresentationToOne\NumberOfStepsToReduceANumberInBinaryRepresentationToOne.csproj", "{7A2BD871-66B2-4F3B-AD4E-1DF422177681}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenationOfConsecutiveBinaryNumbers", "ConcatenationOfConsecutiveBinaryNumbers\ConcatenationOfConsecutiveBinaryNumbers.csproj", "{93EF1AF8-2BFF-4000-BD91-0F4F9F878F59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1287,6 +1289,10 @@ Global
 		{7A2BD871-66B2-4F3B-AD4E-1DF422177681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A2BD871-66B2-4F3B-AD4E-1DF422177681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A2BD871-66B2-4F3B-AD4E-1DF422177681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EF1AF8-2BFF-4000-BD91-0F4F9F878F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EF1AF8-2BFF-4000-BD91-0F4F9F878F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EF1AF8-2BFF-4000-BD91-0F4F9F878F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EF1AF8-2BFF-4000-BD91-0F4F9F878F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

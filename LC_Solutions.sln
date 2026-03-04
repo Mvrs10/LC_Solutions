@@ -435,6 +435,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitioningIntoMinimumNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSwapsToArrangeABinaryGrid", "MinimumSwapsToArrangeABinaryGrid\MinimumSwapsToArrangeABinaryGrid.csproj", "{F481B96A-85DB-47F6-A35B-0886370BF57E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPositionsInABinaryMatrix", "SpecialPositionsInABinaryMatrix\SpecialPositionsInABinaryMatrix.csproj", "{80EE0CB5-1BD6-483A-911D-A2B4D4B7F8D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1305,6 +1307,10 @@ Global
 		{F481B96A-85DB-47F6-A35B-0886370BF57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F481B96A-85DB-47F6-A35B-0886370BF57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F481B96A-85DB-47F6-A35B-0886370BF57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EE0CB5-1BD6-483A-911D-A2B4D4B7F8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EE0CB5-1BD6-483A-911D-A2B4D4B7F8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EE0CB5-1BD6-483A-911D-A2B4D4B7F8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EE0CB5-1BD6-483A-911D-A2B4D4B7F8D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

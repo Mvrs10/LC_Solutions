@@ -439,6 +439,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPositionsInABinaryMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumChangesToMakeAlternatingBinaryString", "MinimumChangesToMakeAlternatingBinaryString\MinimumChangesToMakeAlternatingBinaryString.csproj", "{B2ED0783-2057-4259-9101-032B9C51A8F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfBinaryStringHasAtMostOneSegmentOfOnes", "CheckIfBinaryStringHasAtMostOneSegmentOfOnes\CheckIfBinaryStringHasAtMostOneSegmentOfOnes.csproj", "{760A0A80-8A81-4D06-A1A5-315FBC89B38A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1317,6 +1319,10 @@ Global
 		{B2ED0783-2057-4259-9101-032B9C51A8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2ED0783-2057-4259-9101-032B9C51A8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2ED0783-2057-4259-9101-032B9C51A8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760A0A80-8A81-4D06-A1A5-315FBC89B38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760A0A80-8A81-4D06-A1A5-315FBC89B38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760A0A80-8A81-4D06-A1A5-315FBC89B38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760A0A80-8A81-4D06-A1A5-315FBC89B38A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

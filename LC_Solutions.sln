@@ -445,6 +445,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfFlipsToMakeT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindUniqueBinaryString", "FindUniqueBinaryString\FindUniqueBinaryString.csproj", "{6979F405-FF20-4B57-B503-15BFD0B88442}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllPossibleStableBinaryArrays", "FindAllPossibleStableBinaryArrays\FindAllPossibleStableBinaryArrays.csproj", "{665C710E-27C6-4732-9054-A1488339CFE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1335,6 +1337,10 @@ Global
 		{6979F405-FF20-4B57-B503-15BFD0B88442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6979F405-FF20-4B57-B503-15BFD0B88442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6979F405-FF20-4B57-B503-15BFD0B88442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665C710E-27C6-4732-9054-A1488339CFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665C710E-27C6-4732-9054-A1488339CFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665C710E-27C6-4732-9054-A1488339CFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665C710E-27C6-4732-9054-A1488339CFE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

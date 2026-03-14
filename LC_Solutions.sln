@@ -449,6 +449,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAllPossibleStableBinary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplementOfBase10Integer", "ComplementOfBase10Integer\ComplementOfBase10Integer.csproj", "{CFF83FD9-17F9-43D2-A868-32348C1F8D20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfSecondsToMakeMountainHeightZero", "MinimumNumberOfSecondsToMakeMountainHeightZero\MinimumNumberOfSecondsToMakeMountainHeightZero.csproj", "{0615B72E-2ACA-4048-9A2F-30C90A632F63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1347,6 +1349,10 @@ Global
 		{CFF83FD9-17F9-43D2-A868-32348C1F8D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF83FD9-17F9-43D2-A868-32348C1F8D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF83FD9-17F9-43D2-A868-32348C1F8D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0615B72E-2ACA-4048-9A2F-30C90A632F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0615B72E-2ACA-4048-9A2F-30C90A632F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0615B72E-2ACA-4048-9A2F-30C90A632F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0615B72E-2ACA-4048-9A2F-30C90A632F63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

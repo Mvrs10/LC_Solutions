@@ -453,6 +453,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfSecondsToMak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheK-thLexicographicalStringOfAllHappyStringsOfLengthN", "TheK-thLexicographicalStringOfAllHappyStringsOfLengthN\TheK-thLexicographicalStringOfAllHappyStringsOfLengthN.csproj", "{5EFB175A-CC43-44DD-94D6-2EFD82260B9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancySequence", "FancySequence\FancySequence.csproj", "{525043C1-CC25-4BC8-B873-E4981997B53E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1359,6 +1361,10 @@ Global
 		{5EFB175A-CC43-44DD-94D6-2EFD82260B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EFB175A-CC43-44DD-94D6-2EFD82260B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EFB175A-CC43-44DD-94D6-2EFD82260B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525043C1-CC25-4BC8-B873-E4981997B53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525043C1-CC25-4BC8-B873-E4981997B53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525043C1-CC25-4BC8-B873-E4981997B53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525043C1-CC25-4BC8-B873-E4981997B53E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

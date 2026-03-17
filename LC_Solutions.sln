@@ -455,6 +455,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheK-thLexicographicalStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancySequence", "FancySequence\FancySequence.csproj", "{525043C1-CC25-4BC8-B873-E4981997B53E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetBiggestThreeRhombusSumsInAGrid", "GetBiggestThreeRhombusSumsInAGrid\GetBiggestThreeRhombusSumsInAGrid.csproj", "{72362084-D20C-487A-85EB-67411704548E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSubmatrixWithRearrangements", "LargestSubmatrixWithRearrangements\LargestSubmatrixWithRearrangements.csproj", "{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1365,6 +1369,14 @@ Global
 		{525043C1-CC25-4BC8-B873-E4981997B53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{525043C1-CC25-4BC8-B873-E4981997B53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{525043C1-CC25-4BC8-B873-E4981997B53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72362084-D20C-487A-85EB-67411704548E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72362084-D20C-487A-85EB-67411704548E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72362084-D20C-487A-85EB-67411704548E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72362084-D20C-487A-85EB-67411704548E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -459,6 +459,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetBiggestThreeRhombusSumsI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSubmatrixWithRearrangements", "LargestSubmatrixWithRearrangements\LargestSubmatrixWithRearrangements.csproj", "{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSubmatricesWithTopLeftElementAndSumLessThanK", "CountSubmatricesWithTopLeftElementAndSumLessThanK\CountSubmatricesWithTopLeftElementAndSumLessThanK.csproj", "{AC9EAB85-825A-49B1-B957-9E8ABDAA789F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1377,6 +1379,10 @@ Global
 		{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C49374E-BFDC-49FC-B238-75ED0FC7EF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9EAB85-825A-49B1-B957-9E8ABDAA789F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9EAB85-825A-49B1-B957-9E8ABDAA789F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9EAB85-825A-49B1-B957-9E8ABDAA789F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9EAB85-825A-49B1-B957-9E8ABDAA789F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

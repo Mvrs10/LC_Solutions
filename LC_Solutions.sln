@@ -469,6 +469,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetermineWhetherAMatrixCanB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNonNegativeProductInAMatrix", "MaximumNonNegativeProductInAMatrix\MaximumNonNegativeProductInAMatrix.csproj", "{1A6D2309-5CCB-4A82-AEA7-C24FEFF1193D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructProductMatrix", "ConstructProductMatrix\ConstructProductMatrix.csproj", "{BA52B198-26A0-4348-932D-9237BE760C39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1407,6 +1409,10 @@ Global
 		{1A6D2309-5CCB-4A82-AEA7-C24FEFF1193D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A6D2309-5CCB-4A82-AEA7-C24FEFF1193D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A6D2309-5CCB-4A82-AEA7-C24FEFF1193D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA52B198-26A0-4348-932D-9237BE760C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA52B198-26A0-4348-932D-9237BE760C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA52B198-26A0-4348-932D-9237BE760C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA52B198-26A0-4348-932D-9237BE760C39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -471,6 +471,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNonNegativeProductIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructProductMatrix", "ConstructProductMatrix\ConstructProductMatrix.csproj", "{BA52B198-26A0-4348-932D-9237BE760C39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSumGridPartition1", "EqualSumGridPartition1\EqualSumGridPartition1.csproj", "{9B9CE900-92D0-43A8-9E39-33659CF9E320}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1413,6 +1415,10 @@ Global
 		{BA52B198-26A0-4348-932D-9237BE760C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA52B198-26A0-4348-932D-9237BE760C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA52B198-26A0-4348-932D-9237BE760C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9CE900-92D0-43A8-9E39-33659CF9E320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9CE900-92D0-43A8-9E39-33659CF9E320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9CE900-92D0-43A8-9E39-33659CF9E320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9CE900-92D0-43A8-9E39-33659CF9E320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
